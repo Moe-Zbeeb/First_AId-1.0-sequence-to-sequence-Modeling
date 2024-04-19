@@ -1,28 +1,35 @@
 import sys
-from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QWidget, QTextEdit, QPushButton, QFormLayout, QLineEdit, QHBoxLayout
+from PyQt5.QtWidgets import QApplication, QLabel, QVBoxLayout, QWidget, QTextEdit, QPushButton, QHBoxLayout
+from PyQt5.QtGui import QIcon
 
 class ChatGUI(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Nested Layouts Example")
+        self.setWindowTitle("First AI_d")  
 
-        # Create layouts
+        topLayout = QVBoxLayout()
         outerLayout = QVBoxLayout()
-        topLayout = QFormLayout()
-        optionsLayout = QVBoxLayout()
         bottomLayout = QHBoxLayout()
 
-        # Create widgets
-        self.inputTextEdit = QTextEdit()
-        self.outputTextEdit = QTextEdit()
-        self.sendButton = QPushButton("Send")
+        self.label = QLabel('This is label') 
+        self.inputTextEdit = QTextEdit()  
+        self.inputTextEdit.setFixedSize(300, 50)     
+        self.outputTextEdit = QTextEdit()   
+        self.outputTextEdit.setReadOnly(True)   
+        self.outputTextEdit.setFixedSize(300, 300)
 
-        # Add widgets to layouts
-        topLayout.addRow("Some Text:", self.inputTextEdit)
+        self.sendButton = QPushButton("")  
+        self.sendButton.setIcon(QIcon("send.png"))  
+        self.sendButton.setFixedSize(50, 50)     
+        self.sendButton.setObjectName("sendButton")   
+        self.advertisementLabel = QLabel("First AId")  # Placeholder for advertisement
+
+        topLayout.addWidget(self.label)
+        bottomLayout.addWidget(self.inputTextEdit)  
         bottomLayout.addWidget(self.sendButton)
-        outerLayout.addLayout(topLayout)
-        outerLayout.addLayout(bottomLayout)
+        outerLayout.addLayout(topLayout)  # Add topLayout to outerLayout
         outerLayout.addWidget(self.outputTextEdit)
+        outerLayout.addLayout(bottomLayout)
 
         # Set the main layout for the window
         self.setLayout(outerLayout)
@@ -46,11 +53,12 @@ class ChatGUI(QWidget):
                 transition: border-color 0.3s ease;
             }
             QTextEdit:focus {
-                border-color: #4CAF50;
+                border-color: black;
             }
-            QPushButton {
-                background-color: #4CAF50;
+            QPushButton#sendButton {
+                background-color: #000000;
                 border: none;
+                border-radius: 5px;
                 color: white;
                 padding: 12px 28px;
                 text-align: center;
@@ -62,12 +70,13 @@ class ChatGUI(QWidget):
                 border-radius: 5px;
                 box-shadow: 0 4px 8px rgba(0,0,0,0.2);
                 transition: background-color 0.3s, box-shadow 0.2s;
+                border-color: black; /* Add border color */
             }
-            QPushButton:hover {
+            QPushButton#sendButton:hover {
                 background-color: #45a049;
                 box-shadow: 0 6px 12px rgba(0,0,0,0.3);
             }
-            QPushButton:active {
+            QPushButton#sendButton:pressed {
                 background-color: #397a3c;
                 box-shadow: 0 3px 6px rgba(0,0,0,0.3);
             }
@@ -77,16 +86,12 @@ class ChatGUI(QWidget):
                     font-size: 14px;
                 }
             }
+
         """)
 
     def processText(self):
-        # Get text from input text edit
         input_text = self.inputTextEdit.toPlainText()
-
-        # Process text (You can replace this with your own processing logic)
         processed_text = input_text.upper()
-
-        # Display processed text in the output text edit
         self.outputTextEdit.setPlainText(processed_text)
 
 if __name__ == '__main__':
