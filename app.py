@@ -98,4 +98,5 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     chat_gui = ChatGUI()
     chat_gui.show()
+
     sys.exit(app.exec_())
