@@ -17,6 +17,7 @@ class ChatGUI(QWidget):
         self.label.setFixedSize(350, 50)
         self.inputTextEdit = QTextEdit()  
         self.inputTextEdit.setFixedSize(300, 50)     
+        self.inputTextEdit.setPlaceholderText("Type your message here...")  # Set placeholder text
         self.outputTextEdit = QTextEdit()   
         self.outputTextEdit.setReadOnly(True)   
         self.outputTextEdit.setFixedSize(350, 300)
