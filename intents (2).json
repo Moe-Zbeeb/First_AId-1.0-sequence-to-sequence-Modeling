@@ -859,6 +859,306 @@
                 "patterns": ["How to treat cough from a common cold?", "First aid for cold-related cough?", "Home remedies for cough due to cold?", "Relief for coughing from a cold?"],
                 "responses": ["Stay hydrated and rest as much as possible. Use a humidifier to add moisture to the air. Hot teas with honey can soothe the throat (for those over one year old). If the cough is persistent, disruptive, or accompanied by high fever and difficulty breathing, consult a healthcare provider."],
                 "context_set": ""
+              }, 
+              {
+                "tag": "Eye Strain Relief",
+                "patterns": ["How to relieve eye strain?"],
+                "responses": ["Take frequent breaks from screens, use the 20-20-20 rule (every 20 minutes, look at something 20 feet away for 20 seconds), and ensure proper lighting. If symptoms persist, consult an eye doctor."],
+                "context_set": ""
+              },
+              {
+                "tag": "Eye Pain Causes",
+                "patterns": ["What are common causes of eye pain?"],
+                "responses": ["Eye pain can be caused by various factors including dry eyes, foreign objects in the eye, eye strain, allergies, infections, or more serious conditions. Consult an eye specialist for proper diagnosis and treatment."],
+                "context_set": ""
+              },
+              {
+                "tag": "Foreign Object Sensation",
+                "patterns": ["I feel like there's something in my eye. What should I do?"],
+                "responses": ["Flush your eye with clean water or use artificial tears to help remove the foreign object. If the sensation persists or if there's any redness, swelling, or pain, seek medical attention."],
+                "context_set": ""
+              },
+              {
+                "tag": "Eye Pain and Redness",
+                "patterns": ["My eye is red and painful. What could be wrong?"],
+                "responses": ["Redness and pain in the eye could indicate an infection, inflammation, or even a scratched cornea. Avoid rubbing the eye and seek prompt evaluation by an eye doctor."],
+                "context_set": ""
+              },
+              {
+                "tag": "Emergency Eye Care",
+                "patterns": ["What should I do if I have sudden severe eye pain?"],
+                "responses": ["Sudden severe eye pain could be a sign of a serious condition such as acute glaucoma or a detached retina. Seek immediate medical attention to prevent vision loss."],
+                "context_set": ""
+              },
+              {
+                "tag": "Eye Pain with Headache",
+                "patterns": ["I have eye pain along with a headache. What could be causing this?"],
+                "responses": ["Eye pain accompanied by a headache could be due to conditions like migraines, sinusitis, or even increased intraocular pressure. Consult a healthcare provider for proper evaluation and treatment."],
+                "context_set": ""
+              },
+              {
+                "tag": "Eye Pain and Light Sensitivity",
+                "patterns": ["My eyes hurt, and I'm sensitive to light. What should I do?"],
+                "responses": ["Light sensitivity along with eye pain could indicate conditions like uveitis, corneal abrasion, or even meningitis. Seek medical attention promptly for a thorough examination."],
+                "context_set": ""
+              },
+              {
+                "tag": "Eye Pain After Injury",
+                "patterns": ["I got something in my eye, and now it's painful. What should I do?"],
+                "responses": ["If you've experienced an eye injury, do not rub the eye. Rinse it gently with water and avoid attempting to remove any embedded object. Seek immediate medical attention to prevent further damage."],
+                "context_set": ""
+              },
+              {
+                "tag": "Eye Pain in Children",
+                "patterns": ["My child is complaining of eye pain. What should I do?"],
+                "responses": ["Eye pain in children could be due to various reasons including foreign objects, infections, or vision problems. Take your child to a pediatrician or an eye specialist for proper evaluation."],
+                "context_set": ""
+              },
+              {
+                "tag": "Preventive Eye Care",
+                "patterns": ["How can I prevent eye pain?"],
+                "responses": ["Ensure regular eye exams, practice good hygiene, protect your eyes from injuries, and follow proper screen usage guidelines. If you experience persistent eye pain or discomfort, seek professional advice."],
+                "context_set": ""
+              }, 
+              {
+                "tag": "Causes of Back Pain",
+                "patterns": ["What are common causes of back pain?"],
+                "responses": ["Back pain can be caused by various factors including muscle strain, poor posture, injury, herniated discs, arthritis, or underlying health conditions. It's important to consult a healthcare provider for proper diagnosis and treatment."],
+                "context_set": ""
+              },
+              {
+                "tag": "Managing Back Pain at Home",
+                "patterns": ["How can I manage back pain at home?"],
+                "responses": ["Apply ice or heat packs, practice gentle stretching and strengthening exercises, maintain good posture, use over-the-counter pain relievers if necessary, and avoid activities that worsen the pain. If symptoms persist, seek medical advice."],
+                "context_set": ""
+              },
+              {
+                "tag": "When to Seek Medical Help",
+                "patterns": ["When should I seek medical help for back pain?"],
+                "responses": ["Seek medical attention if back pain is severe, lasts longer than a few weeks, is accompanied by numbness or tingling in the legs, difficulty walking, or loss of bladder or bowel control. These could be signs of a serious condition needing urgent treatment."],
+                "context_set": ""
+              },
+              {
+                "tag": "Back Pain Due to Poor Posture",
+                "patterns": ["How can I relieve back pain caused by poor posture?"],
+                "responses": ["Focus on maintaining proper posture while sitting, standing, and lifting objects. Use ergonomic furniture, take regular breaks to stretch, and consider exercises to strengthen core muscles. If pain persists, consult a physical therapist for guidance."],
+                "context_set": ""
+              },
+              {
+                "tag": "Exercises for Back Pain Relief",
+                "patterns": ["What exercises can help relieve back pain?"],
+                "responses": ["Gentle exercises such as yoga, swimming, walking, or Pilates can help strengthen back muscles and improve flexibility. Consult a healthcare provider or physical therapist for personalized exercise recommendations based on your specific condition."],
+                "context_set": ""
+              },
+              {
+                "tag": "Preventing Back Pain",
+                "patterns": ["How can I prevent back pain?"],
+                "responses": ["Maintain a healthy weight, exercise regularly to strengthen back and core muscles, practice good posture, use proper lifting techniques, avoid prolonged sitting or standing, and ensure a supportive mattress and ergonomic workspace. Regular stretching and strengthening exercises can also help prevent back pain."],
+                "context_set": ""
+              },
+              {
+                "tag": "Chronic Back Pain Management",
+                "patterns": ["How to manage chronic back pain?"],
+                "responses": ["Chronic back pain may require a multidisciplinary approach including physical therapy, medication, injections, or even surgery in severe cases. Work with your healthcare provider to develop a comprehensive treatment plan tailored to your needs."],
+                "context_set": ""
+              },
+              {
+                "tag": "Back Pain During Pregnancy",
+                "patterns": ["I'm experiencing back pain during pregnancy. What should I do?"],
+                "responses": ["Back pain is common during pregnancy due to hormonal changes and increased weight. Practice good posture, use supportive shoes, try prenatal yoga or swimming, use pregnancy pillows for support, and consider seeing a physical therapist specializing in prenatal care for additional guidance."],
+                "context_set": ""
+              },
+              {
+                "tag": "Sciatica Relief",
+                "patterns": ["How can I relieve sciatica pain?"],
+                "responses": ["Apply ice or heat packs to the affected area, perform gentle stretches targeting the sciatic nerve, avoid sitting for prolonged periods, and consider over-the-counter pain relievers or muscle relaxants. If symptoms persist, consult a healthcare provider for further evaluation and treatment."],
+                "context_set": ""
+              },
+              {
+                "tag": "Back Pain in Children",
+                "patterns": ["My child complains of back pain. What should I do?"],
+                "responses": ["Back pain in children is less common but can be caused by various factors including heavy backpacks, poor posture, or underlying medical conditions. Monitor your child's symptoms, encourage good posture and regular physical activity, and consult a pediatrician if back pain persists or worsens."],
+                "context_set": ""
+              }, 
+              {
+                "tag": "Pills Information Disclaimer",
+                "patterns": ["Can you provide information about specific pills?"],
+                "responses": ["I'm sorry, but as an AI, I cannot provide information or advice on specific pills, medications, or medical treatments. It's important to consult a healthcare professional or pharmacist for accurate information and guidance regarding medication usage."],
+                "context_set": ""
+              },
+              {
+                "tag": "Medication Advice Disclaimer",
+                "patterns": ["What are the side effects of [specific pill name]?"],
+                "responses": ["I'm unable to provide information about specific medications or their side effects. It's crucial to consult a healthcare provider or pharmacist for detailed information about the potential side effects of any medication."],
+                "context_set": ""
+              },
+              {
+                "tag": "Pill Dosage Inquiry Disclaimer",
+                "patterns": ["How many [specific pill name] should I take for [condition]?"],
+                "responses": ["I'm not equipped to offer advice on specific medication dosages. It's essential to consult a qualified healthcare professional who can evaluate your condition and provide personalized dosage recommendations based on your medical history and current health status."],
+                "context_set": ""
+              },
+              {
+                "tag": "Medication Interactions Disclaimer",
+                "patterns": ["Can I take [specific pill name] with [another medication]?"],
+                "responses": ["I cannot provide information on potential medication interactions. It's vital to consult a healthcare professional or pharmacist who can assess your medical history and current medications to determine if there are any potential interactions between medications."],
+                "context_set": ""
+              },
+              {
+                "tag": "Generic vs. Brand Name Pills Disclaimer",
+                "patterns": ["What's the difference between generic and brand name versions of [specific pill name]?"],
+                "responses": ["I'm not able to provide detailed comparisons between generic and brand name medications. It's advisable to consult a healthcare provider or pharmacist who can offer information specific to your medication needs and preferences."],
+                "context_set": ""
+              },
+              {
+                "tag": "Pill Identification Inquiry Disclaimer",
+                "patterns": ["Can you identify this pill? It's [description of pill]"],
+                "responses": ["As an AI, I'm unable to identify pills based on descriptions. It's crucial to consult a healthcare professional or pharmacist who can accurately identify medications and provide guidance on their usage."],
+                "context_set": ""
+              },
+              {
+                "tag": "Pill Storage and Handling Disclaimer",
+                "patterns": ["How should I store [specific pill name]?"],
+                "responses": ["I'm not equipped to provide instructions on the storage or handling of specific medications. It's important to carefully read the medication's label or consult a pharmacist for proper storage guidelines to ensure medication effectiveness and safety."],
+                "context_set": ""
+              },
+              {
+                "tag": "Pill Expiration Inquiry Disclaimer",
+                "patterns": ["Is it safe to take expired [specific pill name]?"],
+                "responses": ["I cannot provide advice on the safety of taking expired medications. It's recommended to dispose of expired medications properly and consult a healthcare professional or pharmacist for guidance on obtaining a new prescription if needed."],
+                "context_set": ""
+              },
+              {
+                "tag": "Pill Consumption Schedule Disclaimer",
+                "patterns": ["When should I take [specific pill name]?"],
+                "responses": ["I'm unable to provide specific dosing schedules for medications. It's essential to follow the instructions provided by your healthcare provider or pharmacist regarding when and how to take your medication for optimal effectiveness and safety."],
+                "context_set": ""
+              },
+              {
+                "tag": "Pill Allergy Inquiry Disclaimer",
+                "patterns": ["I'm allergic to [specific ingredient]. Can I take [specific pill name]?"],
+                "responses": ["I cannot offer advice on medication allergies or whether it's safe to take a specific medication if you have allergies. It's crucial to consult a healthcare provider or pharmacist who can assess your medical history and provide guidance on suitable medication alternatives."],
+                "context_set": ""
+              }, 
+              {
+                "tag": "Testicle Pain Overview",
+                "patterns": ["What could be causing testicle pain?"],
+                "responses": ["Testicle pain can be caused by various factors including injury, infection, inflammation, torsion (twisting of the testicle), or underlying medical conditions. It's crucial to seek medical evaluation promptly to determine the cause and appropriate treatment."],
+                "context_set": ""
+              },
+              {
+                "tag": "When to Seek Medical Help",
+                "patterns": ["When should I seek medical help for testicle pain?"],
+                "responses": ["It's important to seek immediate medical attention if you experience severe testicle pain, sudden onset of pain, swelling, redness, or if the pain is accompanied by fever, nausea, or difficulty urinating. These could be signs of a serious condition requiring urgent medical intervention."],
+                "context_set": ""
+              },
+              {
+                "tag": "Testicle Pain Management",
+                "patterns": ["How can I manage testicle pain at home?"],
+                "responses": ["While mild testicle pain may sometimes resolve on its own, it's crucial to refrain from self-medication and seek medical advice for proper evaluation and treatment. Applying ice packs, wearing supportive underwear, and avoiding activities that exacerbate the pain may provide temporary relief, but medical evaluation is essential for accurate diagnosis and management."],
+                "context_set": ""
+              },
+              {
+                "tag": "Testicle Pain and Self-Diagnosis",
+                "patterns": ["Can you diagnose the cause of my testicle pain?"],
+                "responses": ["As an AI, I'm unable to diagnose medical conditions. Testicle pain can have various causes, some of which may require urgent medical attention. It's essential to consult a healthcare professional for proper evaluation, diagnosis, and treatment."],
+                "context_set": ""
+              },
+              {
+                "tag": "Testicle Pain and Painkillers",
+                "patterns": ["Should I take painkillers for testicle pain?"],
+                "responses": ["I cannot provide advice on medication usage. Testicle pain can have serious underlying causes that require medical attention. It's important to refrain from self-medication and consult a healthcare provider for proper evaluation and treatment."],
+                "context_set": ""
+              },
+              {
+                "tag": "Testicle Pain and Home Remedies",
+                "patterns": ["Are there any home remedies for testicle pain?"],
+                "responses": ["While some home remedies like applying ice packs or taking over-the-counter pain relievers may provide temporary relief for mild testicle pain, it's essential to seek medical evaluation for persistent or severe pain. Home remedies should not substitute professional medical care."],
+                "context_set": ""
+              },
+              {
+                "tag": "Testicle Pain Assessment",
+                "patterns": ["How can I assess the severity of my testicle pain?"],
+                "responses": ["If you're experiencing testicle pain, assess its severity based on factors like the intensity and duration of pain, presence of swelling or redness, and any associated symptoms such as fever or difficulty urinating. Regardless of severity, seeking medical evaluation is crucial for accurate diagnosis and treatment."],
+                "context_set": ""
+              },
+              {
+                "tag": "Testicle Pain and Delayed Treatment",
+                "patterns": ["Can testicle pain be left untreated?"],
+                "responses": ["Leaving testicle pain untreated can be risky as it may indicate underlying conditions such as infection or torsion, which can lead to serious complications including infertility or loss of the testicle. It's important to seek medical evaluation promptly to address the underlying cause and prevent potential complications."],
+                "context_set": ""
+              },
+              {
+                "tag": "Testicle Pain and Medical Examination",
+                "patterns": ["What will happen during a medical examination for testicle pain?"],
+                "responses": ["During a medical examination for testicle pain, a healthcare provider may conduct a physical examination, inquire about your medical history and symptoms, and may recommend additional tests such as ultrasound or urine analysis to determine the underlying cause of the pain. Prompt medical evaluation is crucial for proper diagnosis and treatment."],
+                "context_set": ""
+              },
+              {
+                "tag": "Testicle Pain and Medical Consultation",
+                "patterns": ["How do I schedule a medical consultation for testicle pain?"],
+                "responses": ["To schedule a medical consultation for testicle pain, contact your primary care physician, a urologist, or visit an urgent care center if the pain is severe or sudden. It's important to seek medical evaluation promptly to determine the cause of the pain and receive appropriate treatment."],
+                "context_set": ""
+              }, 
+              {
+                "tag": "Blood in Urine Overview",
+                "patterns": ["What could be causing blood in urine?"],
+                "responses": ["Blood in urine, also known as hematuria, can be caused by various factors including urinary tract infections, kidney stones, bladder or kidney infections, trauma, or underlying medical conditions. It's crucial to seek medical evaluation promptly to determine the cause and appropriate treatment."],
+                "context_set": ""
+              },
+              {
+                "tag": "When to Seek Medical Help",
+                "patterns": ["When should I seek medical help for blood in urine?"],
+                "responses": ["It's important to seek immediate medical attention if you notice blood in your urine, especially if it's accompanied by pain, fever, difficulty urinating, or if you have a history of kidney problems. These could be signs of a serious condition requiring urgent medical intervention."],
+                "context_set": ""
+              },
+              {
+                "tag": "First Aid for Blood in Urine",
+                "patterns": ["What should I do as first aid for blood in urine?"],
+                "responses": ["As first aid for blood in urine, encourage the person to rest and stay hydrated. If there's significant pain or other concerning symptoms, seek medical help immediately. Refrain from providing any medications and instead, focus on getting professional medical assistance."],
+                "context_set": ""
+              },
+              {
+                "tag": "Blood in Urine and Self-Diagnosis",
+                "patterns": ["Can you diagnose the cause of blood in urine?"],
+                "responses": ["As an AI, I'm unable to diagnose medical conditions. Blood in urine can have various causes, some of which may require urgent medical attention. It's essential to consult a healthcare professional for proper evaluation, diagnosis, and treatment."],
+                "context_set": ""
+              },
+              {
+                "tag": "Blood in Urine and Medication Advice",
+                "patterns": ["Should I take medication for blood in urine?"],
+                "responses": ["I cannot provide advice on medication usage for blood in urine. It's important to seek medical evaluation to determine the underlying cause and receive appropriate treatment. Refrain from self-medication and rely on professional medical advice."],
+                "context_set": ""
+              },
+              {
+                "tag": "Blood in Urine and Home Remedies",
+                "patterns": ["Are there any home remedies for blood in urine?"],
+                "responses": ["While some home remedies may provide temporary relief for symptoms associated with blood in urine, such as staying hydrated or using heat packs for pain, it's crucial to seek medical evaluation for proper diagnosis and treatment. Refrain from relying solely on home remedies and consult a healthcare professional for guidance."],
+                "context_set": ""
+              },
+              {
+                "tag": "Blood in Urine Assessment",
+                "patterns": ["How can I assess the severity of blood in urine?"],
+                "responses": ["If you notice blood in your urine, assess its severity based on factors like the amount of blood, presence of pain or discomfort, any associated symptoms such as fever or difficulty urinating, and your medical history. Regardless of severity, seeking medical evaluation is crucial for accurate diagnosis and treatment."],
+                "context_set": ""
+              },
+              {
+                "tag": "Blood in Urine and Delayed Treatment",
+                "patterns": ["Can blood in urine be left untreated?"],
+                "responses": ["Leaving blood in urine untreated can be risky as it may indicate underlying conditions such as urinary tract infections, kidney stones, or bladder cancer, which may worsen without proper medical intervention. It's important to seek prompt medical evaluation to address the underlying cause and prevent potential complications."],
+                "context_set": ""
+              },
+              {
+                "tag": "Blood in Urine and Medical Examination",
+                "patterns": ["What will happen during a medical examination for blood in urine?"],
+                "responses": ["During a medical examination for blood in urine, a healthcare provider may conduct a physical examination, inquire about your medical history and symptoms, and may recommend additional tests such as urine analysis or imaging studies to determine the underlying cause. Prompt medical evaluation is crucial for proper diagnosis and treatment."],
+                "context_set": ""
+              },
+              {
+                "tag": "Blood in Urine and Medical Consultation",
+                "patterns": ["How do I schedule a medical consultation for blood in urine?"],
+                "responses": ["To schedule a medical consultation for blood in urine, contact your primary care physician, a urologist, or visit an urgent care center if the symptoms are severe or sudden. It's important to seek medical evaluation promptly to determine the cause of the blood in urine and receive appropriate treatment."],
+                "context_set": ""
               }
    ]
 }
