@@ -1,0 +1,864 @@
+{"intents": [
+                {"tag": "Cuts",
+                "patterns": ["What to do if Cuts?", "How to cure Cuts?", "Which medicine to apply for Cuts?", "what to apply on cuts?", "Cuts"],
+                "responses": ["Wash the cut properly to prevent infection and stop the bleeding by applying pressure for 1-2minutes until bleeding stops. Apply Petroleum Jelly to make sure that the wound is moist for quick healing. Finally cover the cut with a sterile bandage. Pain relievers such as acetaminophen can be applied."],
+                "context_set": ""
+                },
+
+                {"tag": "Abrasions",
+                "patterns": ["how do you treat abrasions?", "Do Abrasions cause scars?", "Abrasions", "what to do if abrasions?", "Which medicine to apply for abrasions?", "How to cure abrasions?"],
+                "responses": ["Begin with washed hands.Gently clean the area with cool to lukewarm water and mild soap. Remove dirt or other particles from the wound using sterilized tweezers.For a mild scrape that’s not bleeding, leave the wound uncovered.If the wound is bleeding, use a clean cloth or bandage, and apply gentle pressure to the area to stop any bleeding.Cover a wound that bled with a thin layer of topical antibiotic ointment, like Bacitracin, or a sterile moisture barrier ointment, like Aquaphor. Cover it with a clean bandage or gauze. Gently clean the wound and change the ointment and bandage once per day.Watch the area for signs of infection, like pain or redness and swelling. See your doctor if you suspect infection."],
+                "context_set": ""
+                },
+
+                {"tag": "stings",
+                "patterns": ["How do you treat Sting?", "Stings", "What to do if you get a sting?", "Which medicine to apply if sting?"],
+                "responses": ["Remove any stingers immediately. Some experts recommend scraping out the stinger with a credit card. Applying ice to the site may provide some mild relief. Apply ice for 20 minutes once every hour as needed. Wrap the ice in a towel or keep a cloth between the ice and skin to keep from freezing the skin. Taking an antihistamine such as diphenhydramine (Benadryl) or a nonsedating one such as loratadine (Claritin) will help with itching and swelling. Take acetaminophen (Tylenol) or ibuprofen (Motrin)for pain relief as needed. Wash the sting site with soap and water. Placing hydrocortisone cream on the sting can help relieve redness, itching, and swelling."],
+                "context_set": ""
+                },
+
+                {"tag": "Splinter",
+                "patterns": ["How to remove Splinters", "How to cure Splinters?", "What to do if I have splinters?", "How do you bring a splinter to the surface?"],
+                "responses": ["1. SOAK IT IN EPSOM SALTS. Dissolve a cup of the salts into a warm bath and soak whatever part of the body has the splinter. Failing that, you can also put some of the salts onto a bandage pad and leave it covered for a day; this will eventually help bring the splinter to the surface. 2. VINEGAR OR OIL. Another simple way to draw out that stubborn splinter is to soak the affected area in oil (olive or corn) or white vinegar. Just pour some in a bowl and soak the area for around 20 to 30 minutes,"],
+                "context_set": ""
+                },
+
+                {"tag": "Sprains",
+                "patterns": ["How do you treat a sprain?", "what to do if i get a sprain?", "Which cream to apply if i get a sprain?", "Which medicine to apply if I get a sprain?"],
+                "responses": ["Use an ice pack or ice slush bath immediately for 15 to 20 minutes and repeat every two to three hours while you're awake. To help stop swelling, compress the ankle with an elastic bandage until the swelling stops. In most cases, pain relievers — such as ibuprofen (Advil, Motrin IB, others) or naproxen sodium (Aleve, others) or acetaminophen (Tylenol, others) are enough to manage the pain of a sprained ankle."],
+                "context_set": ""
+                },
+
+                {"tag": "Strains",
+                "patterns": ["How do you treat a strain?", "what to do if i get a strain?", "Which cream to apply if i get a strain?", "Which medicine to apply if I get a strain?", "How do you diagnose a strain?", "Is heat or ice better for a pulled muscle?"],
+                "responses": ["Rest,Ice,Compression and Elevation can be used to cure strains. Avoid using your muscle for a few days, especially if movement causes an increase in pain and also Apply ice immediately after injuring your muscle. This will minimize swelling. Don’t put ice directly on your skin. Use an ice pack or wrap ice in a towel. To reduce swelling, wrap the affected area with an elastic bandage until swelling comes down."],
+                "context_set": ""
+                },
+
+                {"tag": "Fever",
+                "patterns": ["How do you treat a mild Fever?", "what to do if i get a mild fever?", "Which medicine to take if I get a mild fever?", "fever"],
+                "responses": ["To treat a fever at home: 1)Drink plenty of fluids to stay hydrated. 2)Dress in lightweight clothing. 3)Use a light blanket if you feel chilled, until the chills end. 4)Take acetaminophen (Tylenol, others) or ibuprofen (Advil, Motrin IB, others). 5) Get medical help if the fever lasts more than five days in a row."],
+                "context_set": ""
+                },
+
+                {"tag": "Nasal Congestion",
+                "patterns": ["How do you treat nasal Congestion?", "what to do if i get a nasal congestion?", "Which medicine to take if I have a nasal congestion?", "what to do if i have a blocked nose?", "How do you treat a blocked nose?", "How long does nasal congestion last?"],
+                "responses": ["When you’re stuffed up, focus on keeping your nasal passages and sinuses moist. To keep your nasal passages moist, you can: 1)Use a humidifier or vaporizer. 2)Drink lots of fluids. This will thin out your mucus, which could help prevent blocked sinuses. 3)Place a warm, wet towel on your face. It may relieve discomfort and open your nasal passages."],
+                "context_set": ""
+                },
+
+                {"tag": "Cough",
+                "patterns": ["How to cure cough?","How do you treat cough?", "what to do if i get a cough?", "Which medicine to take if I get cough?", "How do you get rid of cough?"],
+                "responses": ["1) Honey:- Use honey to treat a cough, mix 2 teaspoons (tsp) with warm water or an herbal tea. Drink this mixture once or twice a day. Do not give honey to children under 1 year of age. 2) Ginger:- Brew up a soothing ginger tea by adding 20–40 grams (g) of fresh ginger slices to a cup of hot water. Allow to steep for a few minutes before drinking. Add honey or lemon juice to improve the taste and further soothe a cough. 3) Fluids:- Staying hydrated is vital for those with a cough or cold. Research indicates that drinking liquids at room temperature can alleviate a cough, runny nose, and sneezing."],
+                "context_set": ""
+                },
+
+                {"tag": "Sore Throat",
+                "patterns": ["How do you treat sore throat?", "what to do if i get a sore throat?", "Which medicine to take if I get a sore throat?", "How to cure sore throat?"],
+                "responses": ["1) Make sure you get plenty of rest and drink a lot of fluids. 2)Inhale steam,Run hot water in a sink.Drape a towel over you to trap the steam, and have the person lean over the sink with the water running. Tell him to breathe deeply through his mouth and nose for 5 to 10 minutes. Repeat several times a day. 3)Have him sip chicken broth or warm tea with honey. Don’t give honey to a child under 12 months of age."],
+                "context_set": ""
+                },
+
+                {"tag": "Gastrointestinal problems",
+                "patterns": ["How do you treat gas problems?", "what to do if i have Gastrointestinal problems?", "Which medicine to take if I get gas problem?", "How to cure Gas problems?"],
+                "responses": ["1) Replenish body fluids 2)Do not take antidiarrheal drugs or laxatives or pain medication, unless specified by a medical professional.3)Taking antacids may help, per recommendation of a healthcare professional. 4)If prone to frequent heartburns, seek medical help. 5)Taking meals that are not spicy regularly, can relieve ulcer pains. 6)Seek medical help, if conditions persist or continue to worsen"],
+                "context_set": ""
+                },
+
+                {"tag": "Skin problems",
+                "patterns": ["How do you treat Skin problems?", "what to do if i get a skin allergy?", "Which medicine to take if I get a skin allergy?", "How to cure skin allergy?"],
+                "responses": ["1)Hydrocortisone cream. 2)Ointments like calamine lotion. 3)Antihistamines. 4)Cold compresses. 5)Oatmeal baths. 6)Talk to your doctor about what's best for your specific rash."],
+                "context_set": ""
+                },
+
+                {"tag": "Abdonominal Pain",
+                "patterns": ["How do you treat Abdonominal Pain?", "what to do if i get a Abdonominal Pain?", "Which medicine to take if I get a Abdonominal Pain?", "How to cure Abdonominal Pain?"],
+                "responses": ["1)Provide clear fluids to sip, such as water, broth, or fruit juice diluted with water. 2)Serve bland foods, such as saltine crackers, plain bread, dry toast, rice, gelatin, or applesauce. 3)Avoid spicy or greasy foods and caffeinated or carbonated drinks until 48 hours after all symptoms have gone away. "],
+                "context_set": ""
+                },
+
+                {"tag": "Bruises",
+                "patterns": ["How do you treat Bruises?", "what to do if i get a Bruise?", "Which medicine to take if I get a Bruise?", "How to cure Bruises?"],
+                "responses": ["1)Ice the bruise with an ice pack wrapped in a towel. 2)Leave it in place for 10 to 20 minutes. 3)Repeat several times a day for a day or two as needed. 4)Compress the bruised area if it is swelling, using an elastic bandage. "],
+                "context_set": ""
+                },
+
+                {"tag": "Broken Toe",
+                "patterns": ["How do you treat a Broken Toe?", "what to do if i get a Broken Toe?", "Which medicine to take if I get a Broken Toe?", "How to cure Broken Toe?"],
+                "responses": ["1)To help decrease pain and swelling in a broken toe, elevate the foot, ice the injury, and stay off the foot. 2)Depending on the severity of the fracture, the toe may need to be put back into place (reduced), and some compound toe fractures may require surgery.3) Most broken toes heal without complications in six weeks."],
+                "context_set": ""
+                },
+
+                {"tag": "Choking",
+                "patterns": ["How do you treat Choking?", "what to do if i get a Choke?", "Which medicine to take if I get Choked?", "How to cure Choking?"],
+                "responses": ["1)Encourage them to keep coughing to try to clear the blockage. 2)Ask them to try to spit out the object if it's in their mouth. 3)If coughing doesn't work, start back blows and Abdonominal thrusts"],
+                "context_set": ""
+                },
+
+                {"tag": "Wound",
+                "patterns": ["How do you treat a wound?", "what to do if i get a Wound?", "Which medicine to take if I get wounded?", "How to cure a wound?"],
+                "responses": ["1)Rinse the cut or wound with water and apply pressure with sterile gauze, a bandage, or a clean cloth. 2)If blood soaks through the bandage, place another bandage on top of the first and keep applying pressure. 3)Raise the injured body part to slow bleeding. 4)When bleeding stops, cover the wound with a new, clean bandage."],
+                "context_set": ""
+                },
+
+                {"tag": "Diarrhea",
+                "patterns": ["How do you treat Diarrhea?", "what to do if i get Diarrhea?", "Which medicine to take if I get Diarrhea?", "How to cure Diarrhea?"],
+                "responses": ["1)Hydrating the body is essential for recovering from diarrhea.This causes the body to lose electrolytes such as sodium and chloride. 2)It is highly recommended to avoid dairy products, as they may worsen diarrhea in some people. 3)However, if diarrhea lasts for more than 2 days, seek medical advice to avoid complications."],
+                "context_set": ""
+                },
+
+                {
+                "tag": "Baby Choking on Liquid",
+                "patterns": ["What to do if a baby chokes on milk?", "First aid for a baby choking on liquid?", "Handling choking in infants?", "Emergency response for baby choking on liquid?", "How to clear a choking baby’s airway?"],
+                "responses": ["If a baby is choking on liquid, immediately hold the baby in a head-down position on your forearm, supported by your thigh. Give up to 5 gentle back blows between the baby's shoulder blades using the heel of your hand. If the liquid does not dislodge, turn the baby face-up and give up to 5 chest thrusts. Repeat until the airway is clear or emergency services arrive."],
+                "context_set": ""
+              },
+              {
+                "tag": "Infant CPR",
+                "patterns": ["How to perform CPR on an infant?", "CPR steps for babies?", "Emergency CPR for infants?", "First aid CPR for a non-breathing baby?", "Life-saving CPR technique for infants?"],
+                "responses": ["If an infant is unresponsive and not breathing, call for help, then start CPR. Place 2 fingers on the sternum just below the nipple line. Compress the chest about 1.5 inches deep at a rate of 100-120 compressions per minute. After every 30 compressions, give 2 gentle rescue breaths by covering the baby’s mouth and nose with your mouth and blowing softly."],
+                "context_set": ""
+              },
+              {
+                "tag": "Febrile Seizure in Babies",
+                "patterns": ["Managing febrile seizure in infants?", "What to do during a baby's febrile seizure?", "First aid for febrile seizure in babies?", "How to help a baby with a febrile seizure?", "Immediate steps for infant febrile seizure?"],
+                "responses": ["If a baby has a febrile seizure, keep them safe by placing them on a soft surface, such as a carpeted floor. Remove any hard objects from the area. Do not restrain the baby or put anything in their mouth. After the seizure, lay the baby on their side to keep the airway open. Cool the baby by removing excess clothing and use a lukewarm sponge bath. Seek medical help immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Burns from Hot Liquids",
+                "patterns": ["First aid for burns from hot liquids on a baby?", "Treating a baby’s hot liquid burn?", "Emergency care for infant scalds?", "How to treat a scald on a baby?", "Immediate steps for baby burns from liquids?"],
+                "responses": ["If a baby gets burned by a hot liquid, immediately cool the burn under lukewarm running water for at least 10 minutes. Do not use ice. Remove any clothing from the burned area carefully. Cover the burn loosely with a sterile gauze or a clean cloth. Avoid applying creams or ointments. Seek medical attention immediately after initial first aid."],
+                "context_set": ""
+              },
+              {
+                "tag": "Nasal Congestion in Babies",
+                "patterns": ["Clearing nasal congestion in babies?", "First aid for baby nasal congestion?", "How to relieve a congested infant?", "Treating stuffy nose in infants?", "Home remedies for infant nasal congestion?"],
+                "responses": ["To relieve nasal congestion in a baby, use saline drops and a bulb syringe to gently suction mucus from the nose. Position the baby with their head slightly elevated. Use a cool-mist humidifier in the baby’s room to keep the air moist. Consult a pediatrician if the congestion persists or is accompanied by fever or difficulty breathing."],
+                "context_set": ""
+              },
+              {
+                "tag": "Bee Sting on Babies",
+                "patterns": ["First aid for bee sting on a baby?", "What to do if a baby gets stung by a bee?", "Handling bee stings in infants?", "Emergency steps for bee sting on infants?", "How to treat a baby’s bee sting?"],
+                "responses": ["If a baby is stung by a bee, first, gently scrape away the stinger with a credit card or your fingernail. Do not use tweezers as it may squeeze more venom into the skin. Wash the area with soap and water and apply a cold compress to reduce swelling. Watch for signs of an allergic reaction such as difficulty breathing, swelling of the face or lips, or hives. If these symptoms occur, call emergency services immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Diaper Rash",
+                "patterns": ["Treating diaper rash in babies?", "First aid for severe diaper rash?", "Home treatment for infant diaper rash?", "How to alleviate diaper rash discomfort?", "Effective remedies for baby diaper rash?"],
+                "responses": ["To treat diaper rash, change the baby’s diaper frequently and clean the area gently with water and a soft cloth. Allow the skin to air dry fully before putting on a new diaper. Apply a zinc oxide diaper cream to protect the skin. If the rash is severe, has blisters, or does not improve within a few days, consult a pediatrician."],
+                "context_set": ""
+              },
+              {
+                "tag": "Foreign Object Ingestion by Babies",
+                "patterns": ["What to do if a baby swallows a foreign object?", "First aid for infant ingesting non-food item?", "Handling swallowed objects in babies?", "Emergency response for infant ingestion?", "Immediate care for babies swallowing objects?"],
+                "responses": ["If you suspect that a baby has swallowed a foreign object, monitor them closely for signs of distress or choking. Do not attempt to induce vomiting. Look for coughing, wheezing, or difficulty breathing. If any of these signs occur, seek emergency medical attention immediately. Keep the baby calm and do not give them anything to eat or drink until evaluated by a healthcare provider."],
+                "context_set": ""
+              },
+              {
+                "tag": "Infant Sunburn",
+                "patterns": ["First aid for sunburn on a baby?", "Treating sunburn in infants?", "How to care for a baby’s sunburn?", "Immediate steps for infant sunburn care?", "Emergency treatment for baby sunburn?"],
+                "responses": ["If a baby gets sunburned, move them out of the sun immediately. Cool the affected skin with a damp cloth. Apply aloe vera or a moisturizing lotion to soothe the skin if it doesn't irritate further. Keep the baby hydrated and dressed in loose, comfortable clothing. If the sunburn causes blisters, fever, or lethargy, seek medical attention immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Milk Allergy Reaction in Babies",
+                "patterns": ["How to identify milk allergy in babies?", "First aid for milk allergy in infants?", "What to do if baby has allergic reaction to milk?", "Immediate steps for infant milk allergy?", "Managing milk allergy symptoms in babies?"],
+                "responses": ["If a baby shows signs of a milk allergy reaction, such as hives, eczema, vomiting, diarrhea, or wheezing, remove any milk or dairy products immediately. Administer antihistamines if prescribed. Monitor for any signs of anaphylaxis, including difficulty breathing or swelling of the face and lips. If these severe symptoms occur, use an epinephrine auto-injector if available and call emergency services immediately."],
+                "context_set": ""
+              },
+
+              {
+                "tag": "Pulled Muscle",
+                "patterns": ["How do you treat a Pulled Muscle?", "what to do if my muscle is pulled?", "Which medicine to take if I got pulled muscle?", "How to cure a pulled muscle?"],
+                "responses": ["For a pulled muscle, immediately rest the affected muscle and apply ice to reduce swelling for the first 48-72 hours. Apply ice for 20 minutes every hour as needed. After the initial period, switch to heat to help relax and loosen tissues and stimulate blood flow to the area. Use an elastic bandage to compress the muscle if there is swelling. Elevate the affected limb higher than your heart to help reduce swelling. Over-the-counter pain relievers such as ibuprofen or acetaminophen can help reduce pain and inflammation. If the muscle injury is severe or does not improve within a few days, consult a healthcare provider."],
+                "context_set": ""
+              },
+              {
+                "tag": "Rectal bleeding",
+                "patterns": ["How do you treat Rectal Bleeding?", "what to do if i get a Rectal Bleeding?", "Which medicine to take if I get Rectal Bleeding?", "How to cure Rectal Bleeding?"],
+                "responses": ["Rectal bleeding can be a sign of something serious and should always be evaluated by a healthcare provider. While waiting for your appointment, avoid using nonsteroidal anti-inflammatory drugs (NSAIDs) and aspirin as they can increase bleeding. Instead, increase your fiber intake to help soften stools and reduce straining during bowel movements. Drink plenty of water. If you experience significant bleeding, dizziness, fainting, or pain, seek immediate medical attention."],
+                "context_set": ""
+              },
+              {
+                "tag": "Sun Burn",
+                "patterns": ["How do you treat Sun Burn?", "what to do if i get a Sun Burn?", "Which medicine to take if I get Sun Burn?", "How to cure a Sun Burn?"],
+                "responses": ["To treat sunburn, begin by getting out of the sun and cooling the skin with moist compresses or a cool shower. Apply aloe vera or a soothing lotion to the affected area. Stay hydrated by drinking plenty of fluids. Over-the-counter pain relief can be taken if needed. If the sunburn covers a large area, forms blisters, or is accompanied by symptoms such as fever, chills, or nausea, seek medical attention."],
+                "context_set": ""
+              },
+              {
+                "tag": "Testicle Pain",
+                "patterns": ["How do you treat Testicle Pain?", "what to do if i get a Testicle Pain?", "Which medicine to take if I get a Testicle Pain?", "How to cure Testicle Pain?"],
+                "responses": ["Testicle pain should be assessed by a healthcare provider immediately, especially if the pain is severe or sudden. At home, you can ease discomfort by supporting the testicles with an athletic supporter and applying ice packs wrapped in a cloth to the area. Over-the-counter pain relievers like ibuprofen can help reduce pain and swelling. Avoid any activities that could worsen the pain. Seek emergency medical treatment if the pain is associated with nausea, fever, or abdominal pain."],
+                "context_set": ""
+              },
+              {
+                "tag": "Vertigo",
+                "patterns": ["How do you treat a Vertigo?", "what to do if i get a Vertigo?", "Which medicine to take if I get Vertigo?", "How to cure a Vertigo?"],
+                "responses": ["Vertigo can often be treated at home with simple exercises like the Epley maneuver. However, if vertigo is new, severe, or associated with other symptoms like double vision, hearing loss, trouble speaking, coordination problems, or severe headaches, seek medical attention immediately. For mild vertigo, it's helpful to sit still in a quiet, dark room to lessen the spinning feeling. Avoid sudden movements and try to keep your head still."],
+                "context_set": ""
+              },
+              {
+                "tag": "Normal Bleeding",
+                "patterns": ["How do you treat bleeding?", "what to do if i get a Bleeding?", "Which medicine to take if I get bleeding?", "How to cure Bleeding?"],
+                "responses": ["To treat normal bleeding from small cuts or abrasions, first wash your hands to avoid infection and then gently clean the wound under running water. Dry the area and apply an antiseptic if available. Cover the wound with a sterile bandage. Apply pressure if the bleeding does not stop. If bleeding is severe, keep applying pressure and raise the injured area above the heart if possible. Seek immediate medical attention if the bleeding does not stop or if the wound is deep or large."],
+                "context_set": ""
+              },
+
+              {
+                "tag": "Eye Injury",
+                "patterns": ["How do you treat an eye Injury?", "what to do if i get a eye Injury?", "Which medicine to take if I injured my eye?", "How to cure injured eye?"],
+                "responses": ["For eye injuries, do not try to treat severe injuries yourself. Avoid touching, rubbing, or applying pressure to the eye. Do not attempt to remove objects stuck in the eye or wash out the eye for chemical exposures or punctures. Cover the eye with a sterile dressing that does not make contact with the eye itself. Seek immediate medical attention, especially if the injury involves chemicals, sharp objects, or forceful impact."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Chemical Burn",
+                "patterns": ["How do you treat a chemical burn?", "what to do if i get a Chemical Burn?", "Which medicine to take if I get burn due to chemicals?", "How to cure Chemical Burn?"],
+                "responses": ["Immediately remove any clothing or items contaminated by the chemical. Flush the affected area with cool running water for at least 20 minutes to remove the chemical. Do not apply any creams, ointments, or other remedies to the burn. After rinsing, lightly cover the burn with a sterile gauze or clean cloth. Seek professional medical treatment immediately to assess the extent of the burn and to receive further treatment."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Poison",
+                "patterns": ["How do you treat a Poison?", "what to do if i get Poison?", "Which medicine to take if I am poisoned?", "How to cure Poisoning?"],
+                "responses": ["If you suspect poisoning, do not wait for symptoms to appear. Call emergency services or a poison control center immediately. Do not attempt to induce vomiting or give any remedies unless directed by a medical professional. Provide as much information as possible about the poison to the healthcare provider, including what was ingested, how much, and when. Keep the victim calm and follow all instructions given by medical personnel."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Teeth",
+                "patterns": ["How do you treat broken Teeth ?", "what to do if my Teeth got broken?", "Which medicine to take if I get broken teeth?", "cure broken teeth?"],
+                "responses": ["For broken teeth, rinse your mouth with warm water to clean the area. Apply a cold compress to the outside of the mouth, cheek, or lip near the broken tooth to reduce swelling and relieve pain. If possible, retrieve any broken tooth fragments, keep them moist, and bring them to a dentist immediately. Visit a dentist as soon as possible."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "seizure",
+                "patterns": ["How do you treat a seizure?", "what to do if i get a seizure?", "Which medicine to take if I get seizure?", "How to cure seizure?"],
+                "responses": ["During a seizure, keep the person safe by moving away any hard or sharp objects. Cushion their head and gently place them on their side to help keep their airway clear. Do not attempt to restrain them or put anything in their mouth. Monitor the duration of the seizure and any characteristics to report to medical personnel. After the seizure, provide comfort and reassurance as the person gains full awareness. Seek medical advice if the seizure lasts more than five minutes, repeats without full recovery, or if the person is injured, pregnant, or diabetic."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Head Injury",
+                "patterns": ["How do you treat a head Injury?", "what to do if i get a Head Injury?", "Which medicine to take if I get injured in the head?", "How to cure Head Injury?"],
+                "responses": ["For a head injury, if the person is conscious, keep them still and calm. Monitor their condition closely, checking for any signs of confusion, drowsiness, vomiting, or changes in their behavior. Avoid giving them any medications such as ibuprofen or aspirin, which could increase bleeding. If the person is unconscious, apply gentle pressure if there is bleeding but do not move them unless necessary. Call emergency services immediately for severe head injuries, if the person loses consciousness, or if there are signs of a severe concussion."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Fainting",
+                "patterns": ["How do you treat Faint?", "what to do if i feel like Fainting?", "Which medicine to take if I get a Faint?", "How to cure Fainting?"],
+                "responses": ["If someone feels like they might faint, have them sit or lie down and lower their head between their knees if sitting. If someone has fainted, lay them flat on their back and elevate their legs to increase blood flow to the brain. Loosen any constrictive clothing and ensure they have plenty of fresh air. Monitor their condition and check for breathing. If they do not wake up quickly, start CPR if trained and call for emergency help immediately."],
+                "context_set": ""
+              }, 
+
+                {"tag": "Headache",
+                "patterns": ["How do you treat a mild Headache?", "what to do if i get a mild Headache?", "Which medicine to take if I have a mild headache?", "How to cure a mild headache?"],
+                "responses": ["Give ibuprofen (Advil, Motrin), aspirin, or acetaminophen (Tylenol) for pain. Avoid ibuprofen and other NSAIDs if the person has heart failure or kidney failure. Do not give aspirin to a child under age 18."],
+                "context_set": ""
+                },
+
+                {"tag": "Cold",
+                "patterns": ["How do you treat a Cold?", "what to do if i get a mild Cold?", "Which medicine to take if I have a Cold?", "How to cure Cold?"],
+                "responses": ["1)Keeping hydrated is absolutely vital to help 'flush' out the cold, as well as to break down congestion and keep your throat lubricated. 2)Vitamin C is extremely helpful when fighting infection, so at the first sign of a cold be sure to increase your intake by eating plenty of berries, citrus fruits, papayas, broccoli and red peppers which will help keep you protected. 3)When it comes to combating a cold,Vitamin D is essential in helping to regulate immune response."],
+                "context_set": ""
+                },
+                
+                {"tag": "Rash",
+                "patterns": ["How do you treat Rashes?", "what to do if i get a Rash?", "Which medicine to take if I have a Rash?", "How to cure Rash?"],
+                "responses": ["1)Olive oil helps in healing and promotes skin renewal given it is packed with vitamin E and antioxidants. It also soothes the skin and reduces itching. 2)Baking soda is useful in drying skin rashes as also in relieving itching and inflammation. 3)Aloe Vera,Thanks to its antibacterial, antifungal, anti-inflammatory and emollient properties, aloe vera is excellent for treating a number of skin ailments including rashes as also soothing the skin."],
+                "context_set": ""
+                },
+                
+                {"tag": "snake bite",
+                "patterns": ["How do you treat a snake bite?", "what to do if i get a snake bite?", "Which medicine to take if I get a snake bite?", "How to cure snake bite?", "i got bit by a snake"],
+                "responses": ["While waiting for medical help: 1)Move the person beyond striking distance of the snake. 2)Have the person lie down with wound below the heart. 3)Keep the person calm and at rest, remaining as still as possible to keep venom from spreading. 4)Cover the wound with loose, sterile bandage. 5)Remove any jewelry from the area that was bitten. 6)Remove shoes if the leg or foot was bitten."],
+                "context_set": ""
+                },
+
+                {"tag": "animal bite",
+                "patterns": ["How do you treat a animal bite?", "How do you treat a monkey bite?","How do you treat a dog bite?", "what to do if i get a animal bite?", "Which medicine to take if I get a monekey bite?", "How to cure dog bite?", "i got bit by a dog"],
+                "responses": ["1)Wash the wound with soap and warm water. 2)Gently press a clean cloth over the wound to stop the flow of blood. 3)Apply an antibacterial ointment to the wound. 4)Cover with a sterile bandage. 5)Watch for signs of infection. 6)Seek help if you suspect infection or possible exposure to rabies, or if the wound is severe."],
+                "context_set": ""
+                },
+
+                {"tag": "Drowning",
+                "patterns": ["What to do if someone is Drowning?", "what to do if someone drowned?", "What steps to take if i see a drowning person?", "How to help a drowning person?"],
+                "responses": ["1)Place your ear next to the person's mouth and nose. Do you feel air on your cheek? 2)Look to see if the person's chest is moving.If the Person is Not Breathing, Check Pulse. 3)Check the person's pulse for 10 seconds.If There is No Pulse, Start CPR."],
+                "context_set": ""
+                },
+
+        {"tag": "CPR",
+                "patterns": ["How to give CPR??", "what to do in a CPR?", "What steps to take in a CPR??", "How to help a drowning person in CPR?"],
+                "responses": ["1)For an adult or child, place the heel of one hand on the center of the chest at the nipple line. You can also push with one hand on top of the other. For an infant, place two fingers on the breastbone. 2)For an adult or child, press down at least 2 inches. Make sure not to press on ribs. For an infant, press down about 1 and 1/2 inches. Make sure not to press on the end of the breastbone. 3)Do chest compressions only, at the rate of 100-120 per minute or more. Let the chest rise completely between pushes. 4)Check to see if the person has started breathing."],
+                "context_set": ""
+                },  
+        
+                {
+                  "tag": "Frost bite",
+                  "patterns": ["What should I do if I have frostbite?", "How to treat frostbitten fingers?", "Emergency treatment for frostbite?", "Signs of frostbite treatment?", "First aid for frostbite?"],
+                  "responses": ["To treat frostbite, get into a warm room as soon as possible and immerse the affected area in warm (not hot) water, or warm the affected area using body heat. Do not use a heating pad, heat lamp, or the heat of a stove, fireplace, or radiator for warming. Do not rub or massage the frostbitten area or break blisters."],
+                  "context_set": ""
+                },
+                {
+                  "tag": "Heat Exhaustion",
+                  "patterns": ["Signs of heat exhaustion?", "How to deal with heat exhaustion?", "Preventing heat exhaustion?", "Treatment for heat exhaustion?", "What to do if someone has heat exhaustion?"],
+                  "responses": ["Treat heat exhaustion by first moving to a cooler place and lying down. Drink cool water or sports drinks, and take a cool shower or use cold compresses. If symptoms worsen or last longer than one hour, seek medical attention immediately."],
+                  "context_set": ""
+                },
+                {
+                  "tag": "Heat Stroke",
+                  "patterns": ["Immediate action for heat stroke?", "How to help someone with heat stroke?", "Emergency response for heat stroke?", "Signs and treatment of heat stroke?", "What should I do if I suspect heat stroke?"],
+                  "responses": ["Heat stroke requires emergency treatment. Call emergency services right away. While waiting for help, move the person to a cooler place, remove excess clothing, and cool them with whatever means available, e.g., a cool bath or by sponging with cool water."],
+                  "context_set": ""
+                },
+                {
+                  "tag": "Insect Bites",
+                  "patterns": ["How to treat insect bites?", "First aid for a mosquito bite?", "Dealing with bee stings?", "What to do for an ant bite?", "Remedies for insect bites?"],
+                  "responses": ["For insect bites, wash the area with soap and water, apply a cold pack to reduce swelling, and avoid scratching to prevent infection. For stings, remove the stinger by scraping over it with a blunt side of a knife or a credit card and then follow the same care steps."],
+                  "context_set": ""
+                },
+                {
+                  "tag": "nose bleed",
+                  "patterns": ["Steps to stop a nosebleed?", "First aid for nose bleeding?", "How to handle a severe nosebleed?", "What to do if my nose starts bleeding?", "Quick fixes for a nosebleed?"],
+                  "responses": ["To stop a nosebleed, sit upright and lean forward. Using your thumb and index finger, firmly pinch the soft part of your nose and hold it for 10 minutes. Breathe through your mouth during this time and avoid lying down or tilting your head back."],
+                  "context_set": ""
+                },
+                {
+                  "tag": "Pulled Muscle",
+                  "patterns": ["Treatment for a pulled muscle?", "How to handle muscle strain?", "First aid for muscle pull?", "What to do if I pull a muscle?", "Managing a muscle strain at home?"],
+                  "responses": ["For a pulled muscle, rest the affected muscle and apply ice for the first 24-48 hours in 20-minute intervals. Wrap the muscle in a compression bandage and elevate it to reduce swelling. Avoid using the muscle strenuously and consider OTC pain relief if necessary."],
+                  "context_set": ""
+                },
+                {
+                  "tag": "Rectal bleeding",
+                  "patterns": ["What causes rectal bleeding?", "How to manage rectal bleeding?", "First aid for rectal bleeding?", "Should I see a doctor for rectal bleeding?", "Home care for rectal bleeding?"],
+                  "responses": ["Rectal bleeding can be a sign of a serious condition and should be evaluated by a doctor. For mild cases, ensure proper hygiene and use topical over-the-counter treatments to ease symptoms. Avoid straining during bowel movements and increase fiber intake."],
+                  "context_set": ""
+                },
+                {
+                  "tag": "Sun Burn",
+                  "patterns": ["How to treat sunburn?", "Immediate relief for sunburn?", "First aid tips for sunburn?", "What helps with sunburn pain?", "Best way to handle sunburn?"],
+                  "responses": ["For sunburn, apply aloe vera or over-the-counter moisturizing lotion to soothe the skin. Take a cool bath or apply cold, wet towels. Stay hydrated and if the sunburn is severe with blisters, seek medical attention. Avoid further sun exposure while healing."],
+                  "context_set": ""
+                },
+                {
+                  "tag": "Testicle Pain",
+                  "patterns": ["What causes testicle pain?", "First aid for testicular pain?", "How to relieve testicle pain?", "Immediate care for testicular injury?", "When to seek help for testicle pain?"],
+                  "responses": ["Testicle pain can be due to various causes including injuries, infections, or medical conditions like epididymitis. Rest and support the scrotum using a folded towel, apply ice packs to reduce swelling, and take over-the-counter pain relievers. Seek immediate medical attention if the pain is severe or sudden."],
+                  "context_set": ""
+                },
+                {
+                  "tag": "Vertigo",
+                  "patterns": ["How to manage vertigo at home?", "First aid for vertigo?", "What to do if I feel dizzy?", "Home remedies for vertigo?", "Dealing with sudden vertigo?"],
+                  "responses": ["For vertigo, sit or lie down immediately when you feel dizzy. Move slowly and change positions cautiously. If lying down, elevate your head slightly. Stay hydrated and avoid bright lights or sudden movements. If symptoms persist, consult a healthcare professional."],
+                  "context_set": ""
+                },
+              
+              
+
+                { 
+                "tag": "Fracture",
+                "patterns": ["How do you treat a Fracture?", "what to do if i get a Fracture?", "Which medicine to take if I have a Fracture?", "How to cure a Fracture?"],
+                "responses": ["1)Stop any bleeding. Apply pressure to the wound with a sterile bandage, a clean cloth or a clean piece of clothing. 2)Immobilize the injured area. Don't try to realign the bone or push a bone that's sticking out back in. If you've been trained in how to splint and professional help isn't readily available, apply a splint to the area above and below the fracture sites. Padding the splints can help reduce discomfort. 3)Apply ice packs to limit swelling and help relieve pain. Don't apply ice directly to the skin. Wrap the ice in a towel, piece of cloth or some other material. 4)Treat for shock. If the person feels faint or is breathing in short, rapid breaths, lay the person down with the head slightly lower than the trunk and, if possible, elevate the legs."],
+                "context_set": ""
+                },  
+                {
+                "tag": "Severe Allergic Reaction",
+                "patterns": ["What to do during an anaphylactic shock?", "Immediate action for severe allergic reaction?", "First aid for life-threatening allergy?", "Handling severe allergic reactions?", "Emergency response for anaphylaxis?"],
+                "responses": ["Anaphylaxis is a severe allergic reaction that requires immediate medical attention. Administer an epinephrine auto-injector if available, and call emergency services right away. Keep the person lying still on their back, cover them with a blanket, and elevate their legs if possible. Do not give them anything to drink and stay with them until medical help arrives."],
+                "context_set": ""
+              },
+              {
+                "tag": "Heart Attack",
+                "patterns": ["Signs of a heart attack?", "What to do if someone is having a heart attack?", "First aid for heart attack?", "Emergency steps for heart attack?", "How to respond to a heart attack?"],
+                "responses": ["If you suspect someone is having a heart attack, call emergency services immediately. Have the person sit down, rest, and try to stay calm. Loosen any tight clothing and ask if they take any chest pain medication for a known heart condition and help them take it. If the person is unconscious, begin CPR immediately and continue until help arrives."],
+                "context_set": ""
+              },
+              {
+                "tag": "Stroke",
+                "patterns": ["How to identify a stroke?", "Immediate response to a stroke?", "First aid for stroke victims?", "What actions to take during a stroke?", "Emergency care for stroke?"],
+                "responses": ["Recognize signs of a stroke using the FAST method: Face drooping, Arm weakness, Speech difficulties, Time to call emergency services. Immediately dial emergency services if you notice any of these signs. Do not give the person anything to eat or drink. Monitor their condition closely and prepare to perform CPR if necessary until emergency responders arrive."],
+                "context_set": ""
+              },
+              {
+                "tag": "Major Trauma",
+                "patterns": ["First aid for major trauma?", "What to do if someone is severely injured?", "Handling serious physical injuries?", "Emergency steps for traumatic injuries?", "Immediate care for a major accident?"],
+                "responses": ["For major trauma, immediately call emergency services. Do not move the person unless they are in immediate danger. If there is bleeding, apply firm pressure to the wound with a clean cloth. Avoid giving anything to eat or drink and do not attempt to treat severe injuries yourself. Cover them with a blanket to maintain body heat and monitor their vital signs until help arrives."],
+                "context_set": ""
+              },
+              {
+                "tag": "Severe Burns",
+                "patterns": ["How to treat third-degree burns?", "Immediate action for severe burns?", "First aid for critical burns?", "What to do for large area burns?", "Emergency treatment for severe burns?"],
+                "responses": ["Do not attempt to treat severe burns yourself. Cover the burn with a clean, dry cloth to prevent contamination. Avoid applying cold water as it can worsen the injury. Do not apply creams, ointments, or ice. Call emergency services immediately. Treat for shock if necessary and monitor breathing and circulation until medical help arrives."],
+                "context_set": ""
+              }, 
+              {
+                "tag": "Child Choking",
+                "patterns": ["What to do if a child is choking?", "Choking first aid for children?", "How to help a choking child?", "Emergency steps for child choking?", "Child choking treatment?"],
+                "responses": ["If a child is choking, ask them to cough to try to clear the object. If coughing doesn’t work, perform back blows and chest thrusts. For a child, lean them forward and give 5 firm back blows with the heel of your hand. If unsuccessful, perform 5 chest thrusts. Repeat until the object is dislodged or the child can breathe or cough. Call emergency services if the blockage does not clear."],
+                "context_set": ""
+              },
+              {
+                "tag": "Febrile Seizures in Children",
+                "patterns": ["How to handle febrile seizures in children?", "First aid for febrile seizure?", "What to do during a child's febrile seizure?", "Febrile seizure treatment?", "Emergency care for febrile seizures?"],
+                "responses": ["During a febrile seizure, keep the child safe from injury. Place them on the ground in a safe area, remove nearby objects, and cushion their head. Do not restrain them or put anything in their mouth. Once the seizure ends, keep the child on their side to maintain an open airway. Check for fever; if present, seek medical advice promptly."],
+                "context_set": ""
+              },
+              {
+                "tag": "Asthma Attack in Children",
+                "patterns": ["First aid for child asthma attack?", "How to help a child having an asthma attack?", "Child asthma emergency steps?", "What to do if a child has an asthma flare-up?", "Managing asthma symptoms in children?"],
+                "responses": ["If a child is having an asthma attack, help them into a comfortable sitting position and reassure them to stay calm. Assist them with their prescribed rescue inhaler according to their asthma action plan. Give 1 puff every 30-60 seconds for up to 10 puffs. If symptoms persist more than a few minutes, or if the child is distressed, call emergency services immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Minor Cuts and Scrapes in Children",
+                "patterns": ["Treating cuts and scrapes in children?", "First aid for child’s minor wound?", "How to treat a child’s scrape at home?", "Care tips for minor cuts on children?", "Handling minor wounds in kids?"],
+                "responses": ["Clean the wound gently with water and mild soap to remove dirt. Apply gentle pressure with a clean cloth if there is bleeding. Once bleeding stops, dry the area and apply an antibiotic ointment to prevent infection. Cover the wound with a sterile bandage. Watch for signs of infection like increased redness, swelling, or pain."],
+                "context_set": ""
+              },
+              {
+                "tag": "Concussion in Children",
+                "patterns": ["What to do if a child hits their head?", "First aid for concussion in children?", "Symptoms of concussion in a child?", "How to treat a child’s head injury?", "Immediate steps for child concussion?"],
+                "responses": ["If a child sustains a head injury and shows signs of a concussion (confusion, dizziness, headache, nausea), seek medical attention immediately. Until help arrives, keep the child lying down and still with their head and shoulders slightly elevated. Avoid moving the child unless necessary and monitor their condition continuously."],
+                "context_set": ""
+              },
+              {
+                "tag": "Dehydration in Children",
+                "patterns": ["How to treat dehydration in children?", "Recognizing dehydration in kids?", "First aid for a dehydrated child?", "What to give a dehydrated child?", "Managing mild dehydration at home?"],
+                "responses": ["For mild dehydration in children, provide small sips of water or an oral rehydration solution every few minutes. Avoid giving sugary or caffeinated drinks. Encourage the child to drink small amounts frequently to slowly replenish fluids. If symptoms of dehydration persist or worsen, such as reduced urination, dry mouth, or lethargy, seek medical attention immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Allergic Reactions in Children",
+                "patterns": ["How to manage allergic reactions in children?", "First aid for child allergic reaction?", "Emergency care for children with allergies?", "What to do if a child has an allergic reaction?", "Immediate steps for allergy in kids?"],
+                "responses": ["If a child has a known severe allergy and experiences symptoms like swelling of the face, difficulty breathing, or hives, use an epinephrine auto-injector if available and call emergency services immediately. Keep the child calm and lying down with legs raised to maintain blood flow if they feel faint. Monitor their condition until help arrives."],
+                "context_set": ""
+              },
+              {
+                "tag": "Insect Stings in Children",
+                "patterns": ["First aid for insect stings on children?", "How to treat a bee sting in a child?", "Child got stung by an insect, what to do?", "Managing insect bites and stings in kids?", "Emergency response to insect stings in children?"],
+                "responses": ["Remove the stinger by scraping it out with a credit card or your fingernail, if visible. Wash the area with soap and water. Apply a cold pack to reduce swelling and pain. If symptoms of a severe allergic reaction occur, such as difficulty breathing or swelling of the lips or eyelids, administer an epinephrine auto-injector if available and call emergency services immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Bicycle Accident Injuries in Children",
+                "patterns": ["What to do if a child falls off a bike?", "First aid for bicycle crash injuries?", "Handling bike injuries in kids?", "Child injured in a bike accident, how to respond?", "Immediate care for bike injuries in children?"],
+                "responses": ["If a child is injured in a bicycle accident, ensure their safety by moving them away from further harm. Check for consciousness and call emergency services if the child is unresponsive, has difficulty breathing, or has severe injuries. For minor injuries, clean and dress wounds. Keep the child calm and still until help arrives or until you can assess the severity of injuries."],
+                "context_set": ""
+              },
+              {
+                "tag": "Burns from Hot Objects in Children",
+                "patterns": ["First aid for burns in children?", "What to do if a child touches a hot object?", "Treating a child’s burn at home?", "Care for thermal burns in kids?", "Emergency steps for burns in children?"],
+                "responses": ["For minor burns, cool the burn under running cool water for several minutes. Do not use ice. After cooling, cover the burn with a sterile, non-adhesive bandage or clean cloth. Avoid applying creams, ointments, or butter. For more serious burns, especially those covering a large area or involving the face, hands, or genitals, seek medical attention immediately."],
+                "context_set": ""
+              }, 
+              {
+                "tag": "Baby Choking on Liquid",
+                "patterns": ["What to do if a baby chokes on milk?", "First aid for a baby choking on liquid?", "Handling choking in infants?", "Emergency response for baby choking on liquid?", "How to clear a choking baby’s airway?"],
+                "responses": ["If a baby is choking on liquid, immediately hold the baby in a head-down position on your forearm, supported by your thigh. Give up to 5 gentle back blows between the baby's shoulder blades using the heel of your hand. If the liquid does not dislodge, turn the baby face-up and give up to 5 chest thrusts. Repeat until the airway is clear or emergency services arrive."],
+                "context_set": ""
+              },
+              {
+                "tag": "Infant CPR",
+                "patterns": ["How to perform CPR on an infant?", "CPR steps for babies?", "Emergency CPR for infants?", "First aid CPR for a non-breathing baby?", "Life-saving CPR technique for infants?"],
+                "responses": ["If an infant is unresponsive and not breathing, call for help, then start CPR. Place 2 fingers on the sternum just below the nipple line. Compress the chest about 1.5 inches deep at a rate of 100-120 compressions per minute. After every 30 compressions, give 2 gentle rescue breaths by covering the baby’s mouth and nose with your mouth and blowing softly."],
+                "context_set": ""
+              },
+              {
+                "tag": "Febrile Seizure in Babies",
+                "patterns": ["Managing febrile seizure in infants?", "What to do during a baby's febrile seizure?", "First aid for febrile seizure in babies?", "How to help a baby with a febrile seizure?", "Immediate steps for infant febrile seizure?"],
+                "responses": ["If a baby has a febrile seizure, keep them safe by placing them on a soft surface, such as a carpeted floor. Remove any hard objects from the area. Do not restrain the baby or put anything in their mouth. After the seizure, lay the baby on their side to keep the airway open. Cool the baby by removing excess clothing and use a lukewarm sponge bath. Seek medical help immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Burns from Hot Liquids",
+                "patterns": ["First aid for burns from hot liquids on a baby?", "Treating a baby’s hot liquid burn?", "Emergency care for infant scalds?", "How to treat a scald on a baby?", "Immediate steps for baby burns from liquids?"],
+                "responses": ["If a baby gets burned by a hot liquid, immediately cool the burn under lukewarm running water for at least 10 minutes. Do not use ice. Remove any clothing from the burned area carefully. Cover the burn loosely with a sterile gauze or a clean cloth. Avoid applying creams or ointments. Seek medical attention immediately after initial first aid."],
+                "context_set": ""
+              },
+              {
+                "tag": "Nasal Congestion in Babies",
+                "patterns": ["Clearing nasal congestion in babies?", "First aid for baby nasal congestion?", "How to relieve a congested infant?", "Treating stuffy nose in infants?", "Home remedies for infant nasal congestion?"],
+                "responses": ["To relieve nasal congestion in a baby, use saline drops and a bulb syringe to gently suction mucus from the nose. Position the baby with their head slightly elevated. Use a cool-mist humidifier in the baby’s room to keep the air moist. Consult a pediatrician if the congestion persists or is accompanied by fever or difficulty breathing."],
+                "context_set": ""
+              },
+              {
+                "tag": "Bee Sting on Babies",
+                "patterns": ["First aid for bee sting on a baby?", "What to do if a baby gets stung by a bee?", "Handling bee stings in infants?", "Emergency steps for bee sting on infants?", "How to treat a baby’s bee sting?"],
+                "responses": ["If a baby is stung by a bee, first, gently scrape away the stinger with a credit card or your fingernail. Do not use tweezers as it may squeeze more venom into the skin. Wash the area with soap and water and apply a cold compress to reduce swelling. Watch for signs of an allergic reaction such as difficulty breathing, swelling of the face or lips, or hives. If these symptoms occur, call emergency services immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Diaper Rash",
+                "patterns": ["Treating diaper rash in babies?", "First aid for severe diaper rash?", "Home treatment for infant diaper rash?", "How to alleviate diaper rash discomfort?", "Effective remedies for baby diaper rash?"],
+                "responses": ["To treat diaper rash, change the baby’s diaper frequently and clean the area gently with water and a soft cloth. Allow the skin to air dry fully before putting on a new diaper. Apply a zinc oxide diaper cream to protect the skin. If the rash is severe, has blisters, or does not improve within a few days, consult a pediatrician."],
+                "context_set": ""
+              },
+              {
+                "tag": "Foreign Object Ingestion by Babies",
+                "patterns": ["What to do if a baby swallows a foreign object?", "First aid for infant ingesting non-food item?", "Handling swallowed objects in babies?", "Emergency response for infant ingestion?", "Immediate care for babies swallowing objects?"],
+                "responses": ["If you suspect that a baby has swallowed a foreign object, monitor them closely for signs of distress or choking. Do not attempt to induce vomiting. Look for coughing, wheezing, or difficulty breathing. If any of these signs occur, seek emergency medical attention immediately. Keep the baby calm and do not give them anything to eat or drink until evaluated by a healthcare provider."],
+                "context_set": ""
+              },
+              {
+                "tag": "Infant Sunburn",
+                "patterns": ["First aid for sunburn on a baby?", "Treating sunburn in infants?", "How to care for a baby’s sunburn?", "Immediate steps for infant sunburn care?", "Emergency treatment for baby sunburn?"],
+                "responses": ["If a baby gets sunburned, move them out of the sun immediately. Cool the affected skin with a damp cloth. Apply aloe vera or a moisturizing lotion to soothe the skin if it doesn't irritate further. Keep the baby hydrated and dressed in loose, comfortable clothing. If the sunburn causes blisters, fever, or lethargy, seek medical attention immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Milk Allergy Reaction in Babies",
+                "patterns": ["How to identify milk allergy in babies?", "First aid for milk allergy in infants?", "What to do if baby has allergic reaction to milk?", "Immediate steps for infant milk allergy?", "Managing milk allergy symptoms in babies?"],
+                "responses": ["If a baby shows signs of a milk allergy reaction, such as hives, eczema, vomiting, diarrhea, or wheezing, remove any milk or dairy products immediately. Administer antihistamines if prescribed. Monitor for any signs of anaphylaxis, including difficulty breathing or swelling of the face and lips. If these severe symptoms occur, use an epinephrine auto-injector if available and call emergency services immediately."],
+                "context_set": ""
+              }, 
+              {
+                "tag": "Baby Choking on Liquid",
+                "patterns": ["What to do if a baby chokes on milk?", "First aid for a baby choking on liquid?", "Handling choking in infants?", "Emergency response for baby choking on liquid?", "How to clear a choking baby’s airway?"],
+                "responses": ["If a baby is choking on liquid, immediately hold the baby in a head-down position on your forearm, supported by your thigh. Give up to 5 gentle back blows between the baby's shoulder blades using the heel of your hand. If the liquid does not dislodge, turn the baby face-up and give up to 5 chest thrusts. Repeat until the airway is clear or emergency services arrive."],
+                "context_set": ""
+              },
+              {
+                "tag": "Infant CPR",
+                "patterns": ["How to perform CPR on an infant?", "CPR steps for babies?", "Emergency CPR for infants?", "First aid CPR for a non-breathing baby?", "Life-saving CPR technique for infants?"],
+                "responses": ["If an infant is unresponsive and not breathing, call for help, then start CPR. Place 2 fingers on the sternum just below the nipple line. Compress the chest about 1.5 inches deep at a rate of 100-120 compressions per minute. After every 30 compressions, give 2 gentle rescue breaths by covering the baby’s mouth and nose with your mouth and blowing softly."],
+                "context_set": ""
+              },
+              {
+                "tag": "Febrile Seizure in Babies",
+                "patterns": ["Managing febrile seizure in infants?", "What to do during a baby's febrile seizure?", "First aid for febrile seizure in babies?", "How to help a baby with a febrile seizure?", "Immediate steps for infant febrile seizure?"],
+                "responses": ["If a baby has a febrile seizure, keep them safe by placing them on a soft surface, such as a carpeted floor. Remove any hard objects from the area. Do not restrain the baby or put anything in their mouth. After the seizure, lay the baby on their side to keep the airway open. Cool the baby by removing excess clothing and use a lukewarm sponge bath. Seek medical help immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Burns from Hot Liquids",
+                "patterns": ["First aid for burns from hot liquids on a baby?", "Treating a baby’s hot liquid burn?", "Emergency care for infant scalds?", "How to treat a scald on a baby?", "Immediate steps for baby burns from liquids?"],
+                "responses": ["If a baby gets burned by a hot liquid, immediately cool the burn under lukewarm running water for at least 10 minutes. Do not use ice. Remove any clothing from the burned area carefully. Cover the burn loosely with a sterile gauze or a clean cloth. Avoid applying creams or ointments. Seek medical attention immediately after initial first aid."],
+                "context_set": ""
+              },
+              {
+                "tag": "Nasal Congestion in Babies",
+                "patterns": ["Clearing nasal congestion in babies?", "First aid for baby nasal congestion?", "How to relieve a congested infant?", "Treating stuffy nose in infants?", "Home remedies for infant nasal congestion?"],
+                "responses": ["To relieve nasal congestion in a baby, use saline drops and a bulb syringe to gently suction mucus from the nose. Position the baby with their head slightly elevated. Use a cool-mist humidifier in the baby’s room to keep the air moist. Consult a pediatrician if the congestion persists or is accompanied by fever or difficulty breathing."],
+                "context_set": ""
+              },
+              {
+                "tag": "Bee Sting on Babies",
+                "patterns": ["First aid for bee sting on a baby?", "What to do if a baby gets stung by a bee?", "Handling bee stings in infants?", "Emergency steps for bee sting on infants?", "How to treat a baby’s bee sting?"],
+                "responses": ["If a baby is stung by a bee, first, gently scrape away the stinger with a credit card or your fingernail. Do not use tweezers as it may squeeze more venom into the skin. Wash the area with soap and water and apply a cold compress to reduce swelling. Watch for signs of an allergic reaction such as difficulty breathing, swelling of the face or lips, or hives. If these symptoms occur, call emergency services immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Diaper Rash",
+                "patterns": ["Treating diaper rash in babies?", "First aid for severe diaper rash?", "Home treatment for infant diaper rash?", "How to alleviate diaper rash discomfort?", "Effective remedies for baby diaper rash?"],
+                "responses": ["To treat diaper rash, change the baby’s diaper frequently and clean the area gently with water and a soft cloth. Allow the skin to air dry fully before putting on a new diaper. Apply a zinc oxide diaper cream to protect the skin. If the rash is severe, has blisters, or does not improve within a few days, consult a pediatrician."],
+                "context_set": ""
+              },
+              {
+                "tag": "Foreign Object Ingestion by Babies",
+                "patterns": ["What to do if a baby swallows a foreign object?", "First aid for infant ingesting non-food item?", "Handling swallowed objects in babies?", "Emergency response for infant ingestion?", "Immediate care for babies swallowing objects?"],
+                "responses": ["If you suspect that a baby has swallowed a foreign object, monitor them closely for signs of distress or choking. Do not attempt to induce vomiting. Look for coughing, wheezing, or difficulty breathing. If any of these signs occur, seek emergency medical attention immediately. Keep the baby calm and do not give them anything to eat or drink until evaluated by a healthcare provider."],
+                "context_set": ""
+              },
+              {
+                "tag": "Infant Sunburn",
+                "patterns": ["First aid for sunburn on a baby?", "Treating sunburn in infants?", "How to care for a baby’s sunburn?", "Immediate steps for infant sunburn care?", "Emergency treatment for baby sunburn?"],
+                "responses": ["If a baby gets sunburned, move them out of the sun immediately. Cool the affected skin with a damp cloth. Apply aloe vera or a moisturizing lotion to soothe the skin if it doesn't irritate further. Keep the baby hydrated and dressed in loose, comfortable clothing. If the sunburn causes blisters, fever, or lethargy, seek medical attention immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Milk Allergy Reaction in Babies",
+                "patterns": ["How to identify milk allergy in babies?", "First aid for milk allergy in infants?", "What to do if baby has allergic reaction to milk?", "Immediate steps for infant milk allergy?", "Managing milk allergy symptoms in babies?"],
+                "responses": ["If a baby shows signs of a milk allergy reaction, such as hives, eczema, vomiting, diarrhea, or wheezing, remove any milk or dairy products immediately. Administer antihistamines if prescribed. Monitor for any signs of anaphylaxis, including difficulty breathing or swelling of the face and lips. If these severe symptoms occur, use an epinephrine auto-injector if available and call emergency services immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Baby Choking on Liquid",
+                "patterns": ["What to do if a baby chokes on milk?", "First aid for a baby choking on liquid?", "Handling choking in infants?", "Emergency response for baby choking on liquid?", "How to clear a choking baby’s airway?"],
+                "responses": ["If a baby is choking on liquid, immediately hold the baby in a head-down position on your forearm, supported by your thigh. Give up to 5 gentle back blows between the baby's shoulder blades using the heel of your hand. If the liquid does not dislodge, turn the baby face-up and give up to 5 chest thrusts. Repeat until the airway is clear or emergency services arrive."],
+                "context_set": ""
+              },
+              {
+                "tag": "Infant CPR",
+                "patterns": ["How to perform CPR on an infant?", "CPR steps for babies?", "Emergency CPR for infants?", "First aid CPR for a non-breathing baby?", "Life-saving CPR technique for infants?"],
+                "responses": ["If an infant is unresponsive and not breathing, call for help, then start CPR. Place 2 fingers on the sternum just below the nipple line. Compress the chest about 1.5 inches deep at a rate of 100-120 compressions per minute. After every 30 compressions, give 2 gentle rescue breaths by covering the baby’s mouth and nose with your mouth and blowing softly."],
+                "context_set": ""
+              },
+              {
+                "tag": "Febrile Seizure in Babies",
+                "patterns": ["Managing febrile seizure in infants?", "What to do during a baby's febrile seizure?", "First aid for febrile seizure in babies?", "How to help a baby with a febrile seizure?", "Immediate steps for infant febrile seizure?"],
+                "responses": ["If a baby has a febrile seizure, keep them safe by placing them on a soft surface, such as a carpeted floor. Remove any hard objects from the area. Do not restrain the baby or put anything in their mouth. After the seizure, lay the baby on their side to keep the airway open. Cool the baby by removing excess clothing and use a lukewarm sponge bath. Seek medical help immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Baby Choking on Liquid",
+                "patterns": ["What to do if a baby chokes on milk?", "First aid for a baby choking on liquid?", "Handling choking in infants?", "Emergency response for baby choking on liquid?", "How to clear a choking baby’s airway?"],
+                "responses": ["If a baby is choking on liquid, immediately hold the baby in a head-down position on your forearm, supported by your thigh. Give up to 5 gentle back blows between the baby's shoulder blades using the heel of your hand. If the liquid does not dislodge, turn the baby face-up and give up to 5 chest thrusts. Repeat until the airway is clear or emergency services arrive."],
+                "context_set": ""
+              },
+              {
+                "tag": "Infant CPR",
+                "patterns": ["How to perform CPR on an infant?", "CPR steps for babies?", "Emergency CPR for infants?", "First aid CPR for a non-breathing baby?", "Life-saving CPR technique for infants?"],
+                "responses": ["If an infant is unresponsive and not breathing, call for help, then start CPR. Place 2 fingers on the sternum just below the nipple line. Compress the chest about 1.5 inches deep at a rate of 100-120 compressions per minute. After every 30 compressions, give 2 gentle rescue breaths by covering the baby’s mouth and nose with your mouth and blowing softly."],
+                "context_set": ""
+              },
+              {
+                "tag": "Febrile Seizure in Babies",
+                "patterns": ["Managing febrile seizure in infants?", "What to do during a baby's febrile seizure?", "First aid for febrile seizure in babies?", "How to help a baby with a febrile seizure?", "Immediate steps for infant febrile seizure?"],
+                "responses": ["If a baby has a febrile seizure, keep them safe by placing them on a soft surface, such as a carpeted floor. Remove any hard objects from the area. Do not restrain the baby or put anything in their mouth. After the seizure, lay the baby on their side to keep the airway open. Cool the baby by removing excess clothing and use a lukewarm sponge bath. Seek medical help immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Burns from Hot Liquids",
+                "patterns": ["First aid for burns from hot liquids on a baby?", "Treating a baby’s hot liquid burn?", "Emergency care for infant scalds?", "How to treat a scald on a baby?", "Immediate steps for baby burns from liquids?"],
+                "responses": ["If a baby gets burned by a hot liquid, immediately cool the burn under lukewarm running water for at least 10 minutes. Do not use ice. Remove any clothing from the burned area carefully. Cover the burn loosely with a sterile gauze or a clean cloth. Avoid applying creams or ointments. Seek medical attention immediately after initial first aid."],
+                "context_set": ""
+              },
+              {
+                "tag": "Nasal Congestion in Babies",
+                "patterns": ["Clearing nasal congestion in babies?", "First aid for baby nasal congestion?", "How to relieve a congested infant?", "Treating stuffy nose in infants?", "Home remedies for infant nasal congestion?"],
+                "responses": ["To relieve nasal congestion in a baby, use saline drops and a bulb syringe to gently suction mucus from the nose. Position the baby with their head slightly elevated. Use a cool-mist humidifier in the baby’s room to keep the air moist. Consult a pediatrician if the congestion persists or is accompanied by fever or difficulty breathing."],
+                "context_set": ""
+              },
+              {
+                "tag": "Bee Sting on Babies",
+                "patterns": ["First aid for bee sting on a baby?", "What to do if a baby gets stung by a bee?", "Handling bee stings in infants?", "Emergency steps for bee sting on infants?", "How to treat a baby’s bee sting?"],
+                "responses": ["If a baby is stung by a bee, first, gently scrape away the stinger with a credit card or your fingernail. Do not use tweezers as it may squeeze more venom into the skin. Wash the area with soap and water and apply a cold compress to reduce swelling. Watch for signs of an allergic reaction such as difficulty breathing, swelling of the face or lips, or hives. If these symptoms occur, call emergency services immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Diaper Rash",
+                "patterns": ["Treating diaper rash in babies?", "First aid for severe diaper rash?", "Home treatment for infant diaper rash?", "How to alleviate diaper rash discomfort?", "Effective remedies for baby diaper rash?"],
+                "responses": ["To treat diaper rash, change the baby’s diaper frequently and clean the area gently with water and a soft cloth. Allow the skin to air dry fully before putting on a new diaper. Apply a zinc oxide diaper cream to protect the skin. If the rash is severe, has blisters, or does not improve within a few days, consult a pediatrician."],
+                "context_set": ""
+              },
+              {
+                "tag": "Foreign Object Ingestion by Babies",
+                "patterns": ["What to do if a baby swallows a foreign object?", "First aid for infant ingesting non-food item?", "Handling swallowed objects in babies?", "Emergency response for infant ingestion?", "Immediate care for babies swallowing objects?"],
+                "responses": ["If you suspect that a baby has swallowed a foreign object, monitor them closely for signs of distress or choking. Do not attempt to induce vomiting. Look for coughing, wheezing, or difficulty breathing. If any of these signs occur, seek emergency medical attention immediately. Keep the baby calm and do not give them anything to eat or drink until evaluated by a healthcare provider."],
+                "context_set": ""
+              },
+              {
+                "tag": "Infant Sunburn",
+                "patterns": ["First aid for sunburn on a baby?", "Treating sunburn in infants?", "How to care for a baby’s sunburn?", "Immediate steps for infant sunburn care?", "Emergency treatment for baby sunburn?"],
+                "responses": ["If a baby gets sunburned, move them out of the sun immediately. Cool the affected skin with a damp cloth. Apply aloe vera or a moisturizing lotion to soothe the skin if it doesn't irritate further. Keep the baby hydrated and dressed in loose, comfortable clothing. If the sunburn causes blisters, fever, or lethargy, seek medical attention immediately."],
+                "context_set": ""
+              },
+              {
+                "tag": "Milk Allergy Reaction in Babies",
+                "patterns": ["How to identify milk allergy in babies?", "First aid for milk allergy in infants?", "What to do if baby has allergic reaction to milk?", "Immediate steps for infant milk allergy?", "Managing milk allergy symptoms in babies?"],
+                "responses": ["If a baby shows signs of a milk allergy reaction, such as hives, eczema, vomiting, diarrhea, or wheezing, remove any milk or dairy products immediately. Administer antihistamines if prescribed. Monitor for any signs of anaphylaxis, including difficulty breathing or swelling of the face and lips. If these severe symptoms occur, use an epinephrine auto-injector if available and call emergency services immediately."],
+                "context_set": ""
+              }, 
+              {
+                "tag": "Suspected Broken Leg",
+                "patterns": ["What should I do if I think I broke my leg?", "How to tell if a leg is broken?", "Immediate steps for a suspected broken leg?", "First aid for possible leg fracture?"],
+                "responses": ["Do not move the person unless absolutely necessary to avoid further injury. Keep the leg immobile; do not try to realign the bone. Apply ice wrapped in a cloth to reduce swelling and pain. Elevate the leg if possible. Call emergency services or go to the emergency room immediately."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Compound Fracture in Leg",
+                "patterns": ["How to treat a compound fracture in the leg?", "First aid for open leg fracture?", "What to do if there's a bone protruding in a leg injury?", "Managing a compound leg fracture?"],
+                "responses": ["Cover the wound with a clean cloth or sterile dressing to prevent contamination. Do not attempt to push the bone back in. Apply gentle pressure around the wound to control bleeding. Keep the leg immobile and elevated if possible. Call for emergency medical help immediately."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Simple Leg Fracture",
+                "patterns": ["First aid for a closed leg fracture?", "What to do for a simple broken leg?", "How to care for a non-compound leg fracture?", "Immediate treatment for a closed leg break?"],
+                "responses": ["Keep the injured leg as still as possible. Apply ice to reduce swelling but avoid applying ice directly to the skin. Use cushions or clothes to create a makeshift splint to immobilize the leg. Do not give anything to eat or drink if surgery might be required. Seek medical attention promptly."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Leg Fracture in Children",
+                "patterns": ["How to handle a leg fracture in a child?", "Child broke their leg, what to do?", "First aid for kids with broken legs?", "Immediate care for a child’s broken leg?"],
+                "responses": ["Keep the child calm and still; reassure them as you call for medical help. Do not try to move or adjust the leg. Apply ice wrapped in cloth to ease pain and swelling. If there’s a wound, cover it with a clean bandage. Get professional medical care as quickly as possible."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Stress Fracture in Leg",
+                "patterns": ["What to do for a stress fracture in the leg?", "First aid for a mild leg fracture?", "How to treat minor fractures in the leg?", "Care instructions for a stress fracture in the leg?"],
+                "responses": ["Rest the affected leg and avoid putting weight on it. Apply ice for 20 minutes every couple of hours to reduce swelling. Compress the leg with an elastic bandage if swelling is present. Elevate the leg to decrease swelling. Seek medical evaluation to determine the need for further treatment such as bracing or physical therapy."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Multiple Fractures in Leg",
+                "patterns": ["How to care for multiple fractures in a leg?", "First aid for complex leg injuries?", "What to do if someone has multiple breaks in the leg?", "Emergency response for multiple leg fractures?"],
+                "responses": ["Call emergency services immediately. Do not move the person unless they are in danger. Try to keep the leg as still as possible. Apply ice packs to areas of swelling. Cover any wounds with sterile dressings. Keep the person warm and calm while waiting for medical help."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Fractured Thigh Bone",
+                "patterns": ["How to treat a broken thigh bone?", "First aid for femur fracture?", "Immediate steps for a fractured femur?", "What to do for a broken upper leg?"],
+                "responses": ["A fractured femur is a severe injury requiring immediate medical attention. Call for emergency assistance. Do not attempt to move the person unless absolutely necessary. If you must apply ice, wrap it in cloth and apply it to the injured area to minimize swelling. Cover the person with a blanket to maintain body temperature and prevent shock."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Broken Leg with Severe Bleeding",
+                "patterns": ["First aid for a bleeding broken leg?", "How to manage a broken leg with heavy bleeding?", "What to do if a broken leg is bleeding significantly?", "Stopping bleeding in a severe leg fracture?"],
+                "responses": ["Call emergency services right away. While waiting for help, apply firm pressure to the bleeding area with a clean cloth or sterile bandage. If possible, elevate the leg above heart level. Do not attempt to clean severe wounds or remove deeply embedded objects as this could increase bleeding."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Aftercare for a Broken Leg",
+                "patterns": ["What to do after a leg is set in a cast?", "Care tips post leg fracture?", "How to manage daily activities with a broken leg?", "Recovery advice for a healed leg fracture?"],
+                "responses": ["Follow your doctor’s instructions regarding care of the cast and any weight-bearing limits. Keep the cast dry and elevated when sitting to reduce swelling. Attend all follow-up appointments to monitor healing. Engage in recommended rehabilitation exercises to restore strength and mobility under professional guidance."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Broken Leg with Suspected Spinal Injury",
+                "patterns": ["What to do if a broken leg comes with back pain?", "Handling a leg fracture with potential spinal injury?", "First aid for leg and possible spinal injury?", "Immediate care for multiple traumatic injuries?"],
+                "responses": ["Do not move the person unless absolutely necessary to avoid worsening a potential spinal injury. Call for emergency medical help. Keep the person as still as possible, supporting the head and neck if you must reposition them for safety. Monitor their breathing and consciousness, and prepare to perform CPR if necessary while awaiting help."],
+                "context_set": ""
+              }, 
+              {
+                "tag": "Suspected Broken Arm",
+                "patterns": ["How do I know if my arm is broken?", "First aid for a suspected broken arm?", "What to do if you think you broke your arm?", "Emergency steps for a possible arm fracture?"],
+                "responses": ["Do not move the arm; stabilize the arm in its current position. If available, use a splint or sling to immobilize the arm but do not try to realign it. Apply ice wrapped in a cloth to reduce swelling. Avoid giving pain medications before getting medical advice. Seek professional medical help immediately."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Compound Fracture in Arm",
+                "patterns": ["Handling an open fracture in the arm?", "First aid for compound arm fracture?", "What to do if bone is visible in arm injury?", "Emergency care for open arm fractures?"],
+                "responses": ["Cover the wound with a clean cloth or sterile dressing. Do not attempt to push any protruding bones back into place. Apply gentle pressure around the wound to control bleeding if necessary. Keep the arm immobilized and elevated. Call emergency services immediately."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Simple Fracture of the Arm",
+                "patterns": ["Treatment for a closed arm fracture?", "First aid for a simple broken arm?", "How to care for a non-compound arm fracture?", "Immediate steps after an arm break?"],
+                "responses": ["Immobilize the arm using a sling or splint if possible, without adjusting the arm's position. Apply ice packs to reduce swelling, wrapping the ice in cloth to avoid direct skin contact. Avoid using the arm and elevate it to decrease pain and swelling. Seek medical attention as soon as possible."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Arm Fracture in Children",
+                "patterns": ["How to treat a child's broken arm?", "First aid for broken arm in kids?", "What to do if a child breaks their arm?", "Immediate care for child’s broken arm?"],
+                "responses": ["Keep the child calm and do not move the injured arm. If you can safely apply a splint or sling, do so without moving the arm. Apply ice wrapped in a towel for comfort and to reduce swelling. Take the child to a pediatric emergency room or call emergency services right away."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Stress Fracture in Arm",
+                "patterns": ["Dealing with a stress fracture in the arm?", "First aid for minor arm fracture?", "How to treat hairline fractures in the arm?", "Care for mild fractures in the arm?"],
+                "responses": ["Rest the arm and avoid activities that cause pain. Apply ice periodically to reduce swelling and pain. Use an elastic bandage or splint to immobilize the arm if necessary. If pain or swelling persists, seek medical evaluation for appropriate management and potential physical therapy."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Multiple Fractures in Arm",
+                "patterns": ["First aid for multiple fractures in one arm?", "Handling severe arm injuries with multiple breaks?", "What to do if multiple arm bones are fractured?", "Emergency treatment for complex arm fractures?"],
+                "responses": ["Call emergency services for immediate medical assistance. Do not attempt to realign the bones. Immobilize the arm as best as you can with a sling or splint. Apply ice to reduce swelling but ensure there is a barrier such as a cloth between the ice and skin. Keep the arm elevated if possible."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Fractured Wrist",
+                "patterns": ["How to treat a broken wrist?", "First aid for wrist fracture?", "Immediate steps for a fractured wrist?", "What to do for a broken wrist?"],
+                "responses": ["Stabilize the wrist with a splint or a makeshift support. Apply ice to the injured area to reduce swelling and pain. Avoid using the wrist and keep it elevated. Seek medical attention quickly to ensure proper alignment and healing."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Broken Arm with Severe Bleeding",
+                "patterns": ["Managing a broken arm with heavy bleeding?", "First aid for bleeding with an arm fracture?", "What to do if a broken arm bleeds profusely?", "Stopping severe bleeding in an arm fracture?"],
+                "responses": ["Call emergency services right away. While waiting for help, apply pressure to the bleeding site with a clean cloth. If the bleeding does not stop, continue to apply pressure with a new cloth on top of the old. Keep the arm elevated above the heart to reduce bleeding."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Aftercare for a Broken Arm",
+                "patterns": ["Post-care tips for a healed broken arm?", "What to do after an arm cast is removed?", "How to manage recovery after an arm fracture?", "Rehabilitation for a broken arm?"],
+                "responses": ["Follow all rehabilitation exercises prescribed by your healthcare provider to regain strength and mobility. Keep the arm elevated when resting if swelling persists. Avoid strenuous activities until cleared by a medical professional. Attend all follow-up appointments to monitor healing."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Broken Arm with Nerve Damage",
+                "patterns": ["What to do if a broken arm has nerve damage?", "Handling a fractured arm with suspected nerve injury?", "First aid for arm fracture with nerve issues?", "Immediate care for nerve damage in a broken arm?"],
+                "responses": ["Do not move the arm. Immobilize it in the position found, using a sling or splint if possible. Do not try to realign the arm. Nerve damage may not be immediately obvious, so seek emergency medical care where further testing and treatment can be provided."],
+                "context_set": ""
+              }, 
+              {
+                "tag": "Dry Cough",
+                "patterns": ["What to do for a dry cough?", "Home remedies for a dry cough?", "First aid for persistent dry cough?", "Relief from dry coughing?"],
+                "responses": ["Stay hydrated by drinking plenty of water. Use a humidifier to add moisture to the air. Suck on throat lozenges or hard candies to soothe the throat. If the cough persists for more than a few weeks, or is accompanied by other symptoms like shortness of breath, consult a healthcare provider."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Cough with Phlegm",
+                "patterns": ["How to treat a cough with mucus?", "What to do if coughing up phlegm?", "First aid for cough producing phlegm?", "Managing a productive cough?"],
+                "responses": ["Drink plenty of fluids to help thin the mucus. Inhale steam from a bowl of hot water or take a hot shower to loosen the phlegm. Use a saline nasal spray or drops to aid in mucus expulsion. If the cough is persistent, or the phlegm is discolored or blood-stained, seek medical advice."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Nighttime Cough",
+                "patterns": ["How to ease nighttime cough?", "First aid for cough at night?", "What helps with coughing at night?", "Treating cough that worsens at night?"],
+                "responses": ["Elevate the head with extra pillows at bedtime to help reduce coughing. Avoid heavy meals and caffeine close to bedtime. Keep the bedroom air moist with a humidifier. If nighttime cough persists, consult a healthcare provider to rule out underlying conditions like asthma or GERD."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Cough in Children",
+                "patterns": ["How to treat a child’s cough?", "First aid for coughing in children?", "Home remedies for children’s cough?", "What to do if a child keeps coughing?"],
+                "responses": ["Keep the child hydrated with fluids. Use a cool-mist humidifier in the child’s room. For children over one year, a small amount of honey can help soothe the cough. Avoid giving over-the-counter cough medicine to children under four years old. If the child's cough is severe, disrupts sleep, or is accompanied by fever or difficulty breathing, seek pediatric care."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Coughing Fit",
+                "patterns": ["First aid for a coughing fit?", "What to do during a severe coughing attack?", "Handling sudden bouts of intense coughing?", "Emergency steps for uncontrollable coughing?"],
+                "responses": ["Breathe slowly and deeply through the nose to calm the cough. Sip water slowly or suck on ice chips. Inhale steam from hot water to ease the cough. If coughing fits are frequent and severe, causing difficulty breathing or lasting more than a few minutes, seek immediate medical attention."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Cough with Fever",
+                "patterns": ["Treatment for cough with fever?", "What to do if coughing and feverish?", "Managing cough accompanied by fever?", "First aid for cough and fever?"],
+                "responses": ["Rest and stay hydrated. Monitor the fever; if it exceeds 101°F (38.3°C) in adults or is persistent, consider using fever reducers like acetaminophen. If symptoms include a high fever, severe cough, or difficulty breathing, seek medical evaluation as these could indicate a more serious infection."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Whooping Cough",
+                "patterns": ["How to manage whooping cough?", "First aid for pertussis?", "What to do for severe whooping cough?", "Home care tips for whooping cough?"],
+                "responses": ["Keep the environment free from irritants like smoke. Maintain good hydration and use a humidifier. Whooping cough is highly contagious and potentially dangerous, especially for infants. It is important to seek medical attention for diagnosis and treatment with antibiotics. Ensure vaccinations are up to date."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Cough after Choking",
+                "patterns": ["What to do if coughing after choking?", "First aid for post-choking cough?", "Handling cough after a choking episode?", "Care for persistent cough after choking?"],
+                "responses": ["If coughing persists after a choking incident, seek medical attention immediately. Continuous coughing after choking can indicate that part of the obstructed material may still be partially blocking the airway."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Chronic Cough",
+                "patterns": ["Management for chronic cough?", "Long-term care for persistent coughing?", "What to do if cough doesn’t go away?", "Treating ongoing cough issues?"],
+                "responses": ["Identify and treat underlying causes such as allergies, asthma, or GERD with the help of a healthcare provider. Use a humidifier and stay hydrated. Avoid triggers like tobacco smoke. Chronic cough that persists for weeks should be evaluated by a healthcare professional to determine and treat the underlying cause."],
+                "context_set": ""
+              },
+            
+              {
+                "tag": "Cough Due to Cold",
+                "patterns": ["How to treat cough from a common cold?", "First aid for cold-related cough?", "Home remedies for cough due to cold?", "Relief for coughing from a cold?"],
+                "responses": ["Stay hydrated and rest as much as possible. Use a humidifier to add moisture to the air. Hot teas with honey can soothe the throat (for those over one year old). If the cough is persistent, disruptive, or accompanied by high fever and difficulty breathing, consult a healthcare provider."],
+                "context_set": ""
+              }
+   ]
+}
