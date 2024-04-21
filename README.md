@@ -23,6 +23,10 @@ First AID is not just another medical app; it's your virtual first responder. Po
 - **The main paper for sequence modeling and token representation**
 - https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
 - ![image](https://github.com/zbeeb1/Firs_AId-1.0/assets/134772110/cc2feba5-c8fd-470f-8bb3-a33da4814e23)
+- **The DATA that we trained the Model on**
+- https://www.medicalnewstoday.com/categories/first-aid
+- ![image](https://github.com/zbeeb1/Firs_AId-1.0/assets/134772110/7086bc42-cd61-46a6-9694-82a906c9bc91)
+
 
 
 #### Features
