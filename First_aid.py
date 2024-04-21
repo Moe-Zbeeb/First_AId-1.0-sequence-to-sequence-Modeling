@@ -98,14 +98,10 @@ class Chatbot:
 
         return np.array(bag)
 
-    def chat(self):
-        print("Start Talking with the bot (type quit to stop)")
-        while True:
-            inp = input("You: ")
-            if inp.lower() == "quit":
-                break
+    def chat(self , string1):
+        
 
-            inp_bag_of_words = self.bag_of_words(inp)
+            inp_bag_of_words = self.bag_of_words(string1)
             inp_bag_of_words = inp_bag_of_words.reshape(1, -1)
 
             results = self.model.predict(inp_bag_of_words)[0]
@@ -122,5 +118,7 @@ class Chatbot:
                 print("I didn't get that, try again")
 
     def save_model(self, filename):
-        self.model.save(filename)  
+        self.model.save(filename)    
+    def load_model(self, model_file):
+        self.model = tf.keras.models.load_model(model_file)
     

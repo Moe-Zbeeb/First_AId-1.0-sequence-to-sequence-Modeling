@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import QApplication, QLabel, QVBoxLayout, QWidget, QTextEdi
 from PyQt5.QtGui import QIcon  
 import emoji
 from PyQt5.QtCore import QTimer, QPropertyAnimation, Qt  
-       
+from First_aid i
 class ChatGUI(QWidget):
     def __init__(self):
         super().__init__()
