@@ -28,7 +28,7 @@ First AID is not just another medical app; it's your virtual first responder. Po
 - **Comprehensive Knowledge Base**: Behind the scenes, First AID harnesses the collective wisdom of medical literature, research papers, and real-world emergency scenarios to provide accurate and up-to-date information and all this is linked statically by robust Sequence Model to help you make informed decisions.
 - **The main paper for sequence modeling and token representation**
 - https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
-- ![image](https://github.com/zbeeb1/Firs_AId-1.0/assets/134772110/cc2feba5-c8fd-470f-8bb3-a33da4814e23)
+![image](https://github.com/zbeeb1/Firs_AId-1.0-sequence-to-sequence-/assets/134772110/c5279ec1-5d92-4568-a567-3cc99909058d)
 - **The DATA that we trained the Model on**
 - https://www.medicalnewstoday.com/categories/first-aid
 ![image](https://github.com/zbeeb1/Firs_AId-1.0/assets/134772110/c26075db-731f-40cb-9df3-37b99e6aa961)
