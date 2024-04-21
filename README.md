@@ -6,6 +6,11 @@ to see why we cant rely on prompt engineering when we can fine tune or implement
 
 ![image](https://github.com/zbeeb1/Firs_AId-1.0/assets/134772110/b4541e96-a4b5-48b8-b10f-197b686079aa)
 
+
+##### Note : Model is tuned against Hallucination basded on 
+![image](https://github.com/zbeeb1/Firs_AId-1.0-sequence-to-sequence-/assets/134772110/d784ead6-46f5-4044-beb5-94e7386f0470)
+
+
 #### Introduction
 
 Artificial intelligence has become ubiquitous in our lives, so why not leverage it in emergencies and first aid applications? Introducing First AID, an application featuring a user-friendly GUI backed by a powerful sequence model trained specifically for first aid questions and emergency situations.
