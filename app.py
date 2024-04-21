@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import QApplication, QLabel, QVBoxLayout, QWidget, QTextEdi
 from PyQt5.QtGui import QIcon  
 import emoji
 from PyQt5.QtCore import QTimer, QPropertyAnimation, Qt  
-
+       
 class ChatGUI(QWidget):
     def __init__(self):
         super().__init__()
@@ -129,8 +129,11 @@ QLabel:hover {
         """)
 
     def processText(self):
-        input_text = self.inputTextEdit.toPlainText()
-        processed_text = input_text.upper()
+        input_text = self.inputTextEdit.toPlainText()  
+        #load the model    
+        model = tf.keras.models.load_model('chatbot_model.h5')   
+
+
         self.outputTextEdit.setPlainText(processed_text)
 
 if __name__ == '__main__':
