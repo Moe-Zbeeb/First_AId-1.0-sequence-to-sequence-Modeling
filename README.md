@@ -4,7 +4,7 @@
 <img src="https://github.com/zbeeb1/Firs_AId-1.0-sequence-to-sequence-/assets/134772110/805dd34e-f7c1-4f39-bf91-ade0d906398e" width="100">
 
 ### Key Contribution  
-At First AID, we take pride in our commitment to excellence in medical assistance. Unlike many other applications in the market, **we have meticulously developed our sequence model #### from scratch ##### , ensuring that every aspect of its architecture is tailored specifically to the demands of first aid and emergency response**. By eschewing the common practice of fine-tuning pre-existing language models (LLMs), we eliminate any potential biases or **limitations that might arise from pre-trained weights**. This approach not only guarantees the highest level of accuracy and reliability but also underscores our unwavering dedication to the safety and well-being of our users. As pioneers in the field, **we are proud to introduce one of the first fully dedicated FIRST AID apps, setting a new standard for accessible and intelligent medical assistance**.     for example the model will not give any pills' recommendations
+At First AID, we take pride in our commitment to excellence in medical assistance. Unlike many other applications in the market, **we have meticulously developed our sequence model #### from scratch ##### , ensuring that every aspect of its architecture is tailored specifically to the demands of first aid and emergency response**. By eschewing the common practice of fine-tuning pre-existing language models (LLMs), we eliminate any potential biases or **limitations that might arise from pre-trained weights**. This approach not only guarantees the highest level of accuracy and reliability but also underscores our unwavering dedication to the safety and well-being of our users. As pioneers in the field, **we are proud to introduce one of the first fully dedicated FIRST AID apps, setting a new standard for accessible and intelligent medical assistance**.     for example the model will **not give any pills' recommendations** or if it happens that the model is not confident about an answer it will never Hallucinate but instead will ask you to enter a better prompt.
 ##### Note : Model is proved to be better that prompt engineering basded on litreture for example prof ali chehab coducted a study about prompt engineering vs fine tuning (in totally different but proving the point)
 
 ![image](https://github.com/zbeeb1/Firs_AId-1.0/assets/134772110/b4541e96-a4b5-48b8-b10f-197b686079aa)
@@ -46,11 +46,5 @@ First AID is not just another medical app; it's your virtual first responder. Po
   
 - **Customized Recommendations**: Input specific symptoms or conditions, and First AID will offer personalized recommendations for first aid treatments and next steps.
 
-#### Why Choose First AID?
-
-- **Reliable and Accurate**: With its extensive training on a diverse range of medical data, First AID delivers reliable information you can trust.
-  
-- **Accessible Anytime, Anywhere**: Whether you're at home, on the road, or outdoors, First AID is available 24/7, ready to assist you in any medical emergency.(offline) 
-  
 
 *Note: First AID is not a substitute for professional medical advice. In case of a medical emergency, always seek immediate assistance from trained medical professionals.*
