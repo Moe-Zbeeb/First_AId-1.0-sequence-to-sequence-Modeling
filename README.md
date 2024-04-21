@@ -1,5 +1,5 @@
 ### AI-Powered First Aid Assistance         
-#### will not replace the Healthcare professionals but will make respoce better ! :heart:
+#### will not replace  Healthcare professionals but will make respoce better ! :heart:
 
 <img src="https://github.com/zbeeb1/Firs_AId-1.0-sequence-to-sequence-/assets/134772110/805dd34e-f7c1-4f39-bf91-ade0d906398e" width="100">
 
