@@ -1,4 +1,6 @@
-### AI-Powered First Aid Assistance    
+### AI-Powered First Aid Assistance       
+![image](https://github.com/zbeeb1/Firs_AId-1.0-sequence-to-sequence-/assets/134772110/805dd34e-f7c1-4f39-bf91-ade0d906398e)
+
 ### Key Contribution  
 At First AID, we take pride in our commitment to excellence in medical assistance. Unlike many other applications in the market, **we have meticulously developed our sequence model from scratch, ensuring that every aspect of its architecture is tailored specifically to the demands of first aid and emergency response**. By eschewing the common practice of fine-tuning pre-existing language models (LLMs), we eliminate any potential biases or limitations that might arise from pre-trained weights. This approach not only guarantees the highest level of accuracy and reliability but also underscores our unwavering dedication to the safety and well-being of our users. As pioneers in the field, **we are proud to introduce one of the first fully dedicated FIRST AID apps, setting a new standard for accessible and intelligent medical assistance**.   
 Also refer to https://www.researchgate.net/publication/378055315_Prompt_Engineering_or_Fine-Tuning_A_Case_Study_on_Phishing_Detection_with_Large_Language_Models   
