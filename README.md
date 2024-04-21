@@ -22,7 +22,7 @@ First AID is not just another medical app; it's your virtual first responder. Po
 #### How It Works
 
 - **Seamless User Experience**: First AID boasts an intuitive interface designed for ease of use, ensuring that anyone, regardless of their medical expertise, can access its features.
-- ![image](https://github.com/zbeeb1/Firs_AId-1.0/assets/134772110/d372ab70-dea1-4ca3-938e-8bea378ced18)
+    - ![image](https://github.com/zbeeb1/Firs_AId-1.0/assets/134772110/d372ab70-dea1-4ca3-938e-8bea378ced18)
 
   
 - **Comprehensive Knowledge Base**: Behind the scenes, First AID harnesses the collective wisdom of medical literature, research papers, and real-world emergency scenarios to provide accurate and up-to-date information and all this is linked statically by robust Sequence Model to help you make informed decisions.
