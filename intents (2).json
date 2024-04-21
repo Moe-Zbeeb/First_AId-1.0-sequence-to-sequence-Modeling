@@ -3018,5 +3018,871 @@
                     "1) Apply Heat: Use a heating pad or take a warm bath to relax the muscles and relieve cramps. 2) Gentle Exercise: Light stretching or gentle exercise, such as walking, may help reduce cramp intensity. 3) Stay Hydrated: Drink plenty of water to prevent dehydration, which can contribute to cramping. 4) Massage: Gently massage the affected area to help relax tight muscles and ease cramp discomfort. 5) Over-the-Counter Pain Relievers: Consider taking non-prescription pain medications like ibuprofen or acetaminophen for pain relief. 6) Magnesium: Some studies suggest that magnesium supplements may help reduce the frequency and severity of muscle cramps, but consult with a healthcare provider before taking any supplements. 7) Potassium: Ensure you're getting enough potassium-rich foods in your diet, such as bananas, oranges, and sweet potatoes, as low potassium levels can contribute to muscle cramps. 8) Avoid Triggering Factors: Identify and avoid triggers such as dehydration, excessive exercise, or certain medications that may worsen cramps. 9) Relaxation Techniques: Practice relaxation techniques like deep breathing or meditation to help relax tense muscles and reduce cramp discomfort. 10) Consult a Healthcare Provider: If cramps are severe, frequent, or interfering with daily activities, it's advisable to seek medical advice for further evaluation and treatment."
                 ],
                 "context_set": ""
-            }        
+            }, 
+            {
+              "tag": "Dizziness",
+              "patterns": ["What to do if I'm dizzy?", "How to stop dizziness?", "What's the best remedy for dizziness?", "How to cure dizziness?", "Dizziness"],
+              "responses": ["The most important thing to do if you’re feeling dizzy is to lie down in a safe place and stay still until the spell passes. Drinking water can help relieve dizziness, and if you haven’t eaten in a while, getting some food can also help. Once your dizziness has subsided, get up slowly and avoid sudden movements. If you frequently experience dizziness, see your doctor."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "DizzinessPrevention",
+              "patterns": ["How to prevent dizziness?", "What are natural remedies for dizziness?", "How to avoid dizziness?", "Preventing dizziness", "What helps with dizziness?"],
+              "responses": ["To prevent dizziness, make sure to eat a healthy diet, drink plenty of water, and get regular exercise. If you are prone to dizziness, avoid sudden movements and bright lights. Regularly check your blood pressure, and ensure you get enough rest. If you continue to experience dizziness, consult with a healthcare provider for a more thorough evaluation."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "BalanceIssues",
+              "patterns": ["Why do I feel off balance?", "How to improve balance?", "Feeling dizzy and off balance", "How to fix balance issues?", "Why do I have balance issues?"],
+              "responses": ["Balance issues can be caused by a variety of factors, including inner ear problems, dehydration, and lack of proper nutrition. To improve balance, focus on a healthy lifestyle, including a balanced diet, regular exercise, and adequate hydration. For severe or recurring balance issues, it’s best to consult a healthcare professional to rule out underlying conditions."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "DizzinessCauses",
+              "patterns": ["What causes dizziness?", "Why am I feeling dizzy?", "Causes of dizziness", "What are the reasons for dizziness?", "Why do I feel dizzy often?"],
+              "responses": ["Dizziness can be caused by various factors, such as dehydration, low blood sugar, inner ear issues, or even stress. It's essential to identify the cause of your dizziness to determine the appropriate treatment. If you often feel dizzy, you should see a doctor to rule out more severe conditions and get proper treatment."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "DizzinessTreatment",
+              "patterns": ["What helps with dizziness?", "Dizziness treatments", "How to treat dizziness?", "What should I do if I'm dizzy?", "Best treatment for dizziness?"],
+              "responses": ["If you’re experiencing dizziness, lie down in a safe place and stay still until the spell passes. Drinking water and eating if you haven't in a while can help. Avoid bright lights and loud sounds during dizzy spells. Once it subsides, get up slowly and carefully. If dizziness is frequent, your doctor may recommend physical therapy, medications, or other treatments depending on the underlying cause."],
+              "context_set": ""
+          },
+          {
+              "tag": "TremorFirstAid",
+              "patterns": ["What to do for tremors?", "How to manage tremors?", "How to reduce tremors?", "First aid for tremors?", "Tremors"],
+              "responses": ["To reduce or relieve tremors, avoid caffeine and other stimulants, as they can increase tremors. Learn to relax through meditation, deep breathing, or massage to reduce stress and anxiety, which often worsen tremors. Make lifestyle changes, such as using the hand less affected by tremor more often and finding ways to avoid writing with the hand affected by tremor. If tremors affect your daily life, consider joining a support group or consulting a counselor for support."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "TremorLifestyleChanges",
+              "patterns": ["How to manage tremors with lifestyle changes?", "Lifestyle tips for tremors", "Managing tremors at home", "Lifestyle changes for tremors?", "Best lifestyle changes for tremors"],
+              "responses": ["To manage tremors, make lifestyle changes like avoiding caffeine, practicing relaxation techniques, and using the hand less affected by tremor more often. You can also opt for digital banking or use debit cards instead of writing checks to reduce the need for fine motor skills. Adapting your environment with assistive devices and finding ways to reduce stress can also help manage tremors."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "TremorSupport",
+              "patterns": ["How to cope with tremors?", "Support for tremors?", "Tremor support groups?", "Dealing with tremors?", "Living with tremors"],
+              "responses": ["Living with tremors can be challenging. Consider joining a support group where you can connect with others who understand your experiences. A counselor or social worker can also help you navigate the social and psychological aspects of living with tremors. If tremors significantly affect your daily life, discuss additional support and treatment options with a healthcare provider."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "TremorStressReduction",
+              "patterns": ["How does stress affect tremors?", "Reducing stress for tremors", "Stress and tremors", "Can stress make tremors worse?", "How to manage tremors with relaxation?"],
+              "responses": ["Stress and anxiety can make tremors worse. Learning to relax can improve tremors. Try meditation, deep breathing, or massage to manage stress. Activities like yoga or gentle exercise can also help reduce stress and improve overall well-being. Find techniques that work best for you to maintain a calm and relaxed state."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "TremorCaffeineEffect",
+              "patterns": ["Does caffeine affect tremors?", "Can caffeine worsen tremors?", "Caffeine and tremors", "Should I avoid caffeine if I have tremors?", "Tremors and caffeine"],
+              "responses": ["Caffeine can increase tremors, so it's best to avoid it if you have tremors. This includes coffee, tea, energy drinks, and other caffeinated beverages. Reducing or eliminating caffeine can help manage tremors and improve your overall well-being. If you notice a significant improvement after reducing caffeine, it may be worth considering as part of your tremor management plan."],
+              "context_set": ""
+          },
+          {
+              "tag": "FluFirstAid",
+              "patterns": ["What to do if you have the flu?", "How to treat the flu?", "First aid for flu?", "Best treatment for flu?", "Flu treatment"],
+              "responses": ["If you have the flu, stay home to avoid spreading the virus. Get plenty of rest, drink fluids to stay hydrated, and treat symptoms like fever with over-the-counter medications. If symptoms worsen or you are at high risk due to pregnancy, age, or chronic illness, seek medical care immediately. People at high risk or with severe symptoms may need antiviral medications."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "FluPrevention",
+              "patterns": ["How to prevent flu?", "Best ways to prevent flu?", "Flu prevention", "How to avoid getting the flu?", "Ways to prevent flu"],
+              "responses": ["The best way to prevent flu is through vaccination. Get vaccinated annually to reduce the risk of contracting the flu and to minimize the severity of symptoms if you do get it. Other preventive measures include washing your hands regularly, covering your mouth and nose when coughing or sneezing, staying home when you're unwell, and avoiding close contact with sick people."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "FluHighRisk",
+              "patterns": ["Who is at high risk for flu?", "High-risk groups for flu?", "Flu high-risk groups?", "Who should get the flu vaccine?", "Who is more vulnerable to flu?"],
+              "responses": ["People at high risk for flu complications include pregnant women, children under 59 months of age, people over 65, those with chronic illnesses, people with suppressed immune systems, and those receiving chemotherapy. These groups should get vaccinated annually and seek medical attention if they contract the flu. Health workers and caregivers of high-risk individuals are also encouraged to get vaccinated."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "FluSymptoms",
+              "patterns": ["What are flu symptoms?", "How to know if I have the flu?", "Flu symptoms?", "Symptoms of flu?", "Signs of flu"],
+              "responses": ["Flu symptoms often include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue. Some people may also experience vomiting or diarrhea. If you have severe symptoms or are at high risk, seek medical attention. Mild symptoms can be managed with rest, hydration, and over-the-counter medications."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "FluTransmission",
+              "patterns": ["How is the flu spread?", "How do you catch the flu?", "Flu transmission?", "Flu contagious?", "How does the flu spread?"],
+              "responses": ["The flu spreads through respiratory droplets when an infected person coughs or sneezes. You can catch the flu by breathing in these droplets or by touching contaminated surfaces and then touching your face. To prevent the spread, wash your hands regularly, cover your mouth and nose when coughing or sneezing, and avoid close contact with sick people."],
+              "context_set": ""
+          },
+          {
+              "tag": "AllergyFirstAid",
+              "patterns": ["What to do for an allergic reaction?", "How to treat an allergic reaction?", "First aid for allergies?", "Best treatment for an allergic reaction?", "How to handle allergies?"],
+              "responses": ["For mild allergic reactions, give an oral antihistamine like diphenhydramine (Benadryl). If symptoms are severe or include trouble breathing, use an epinephrine auto-injector immediately and call emergency services. Always keep an auto-injector with you if you have severe allergies, and seek medical help if symptoms worsen."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "AllergySymptoms",
+              "patterns": ["What are the signs of an allergic reaction?", "How to identify allergies?", "Symptoms of allergies?", "Signs of mild allergic reactions?", "How do I know if I'm having an allergic reaction?"],
+              "responses": ["Signs of a mild allergic reaction include itchy and slightly swollen skin, stuffy or runny nose, sneezing, itchy eyes, or red bumps (hives). Severe allergic reactions can cause swelling of the mouth or tongue, trouble breathing, belly pain, or dizziness. If you experience severe symptoms, seek immediate medical attention."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "AllergyPrevention",
+              "patterns": ["How to prevent allergies?", "Ways to avoid allergies?", "Preventing allergic reactions?", "Tips for allergy prevention?", "Best methods to prevent allergies?"],
+              "responses": ["To prevent allergic reactions, avoid known allergens. Keep antihistamines on hand for mild reactions, and ensure you have an epinephrine auto-injector for severe allergies. Regularly clean your environment to reduce allergens, and avoid foods or substances that trigger reactions. Vaccinations for certain allergies may also be recommended by your doctor."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "AnaphylaxisFirstAid",
+              "patterns": ["What to do during anaphylaxis?", "First aid for anaphylaxis?", "How to handle anaphylaxis?", "Best treatment for anaphylaxis?", "Anaphylaxis emergency response?"],
+              "responses": ["In an anaphylaxis emergency, call 911 immediately. If the person has an epinephrine auto-injector, help them use it. Keep them calm, have them lie on their back, and raise their feet. Turn them on their side if they're vomiting or bleeding, and make sure their clothing is loose. Avoid giving oral medications or anything to drink during a severe reaction."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "EpinephrineUse",
+              "patterns": ["How to use an epinephrine auto-injector?", "When to use an EpiPen?", "How to administer epinephrine?", "Using EpiPen for allergies?", "Guidelines for using epinephrine?"],
+              "responses": ["An epinephrine auto-injector (EpiPen) is used for severe allergic reactions. Administer it into the thigh, holding it in place for several seconds. Ensure you have two injectors in case a second dose is needed. If you use an EpiPen, call 911 immediately. Learn the correct technique, and teach family members and friends how to use it in an emergency."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "AllergyEmergency",
+              "patterns": ["How to respond to an allergy emergency?", "Allergy emergency response?", "What to do in an allergy emergency?", "Best way to handle allergy emergencies?", "First aid for allergy emergencies?"],
+              "responses": ["In an allergy emergency, act quickly. Call emergency services, and if the person has an epinephrine auto-injector, help them use it. Keep them calm and lying down, and loosen tight clothing. Avoid giving them oral medications or anything to drink during a severe reaction. Follow up with medical professionals for further treatment."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "AllergyTriggers",
+              "patterns": ["What causes allergies?", "Allergy triggers?", "Common allergy triggers?", "What triggers allergies?", "Causes of allergic reactions?"],
+              "responses": ["Allergies can be triggered by various factors, including certain foods, pollen, dust, animal dander, or insect stings. Identifying your specific triggers is key to preventing reactions. Common triggers include nuts, shellfish, eggs, milk, wheat, and soy. Consult with an allergist to determine your triggers and develop a plan to manage allergies effectively."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "MildAllergyTreatment",
+              "patterns": ["How to treat mild allergies?", "What to do for mild allergies?", "Best treatment for mild allergic reactions?", "How to handle mild allergies?", "First aid for mild allergic reactions?"],
+              "responses": ["For mild allergic reactions, use an oral antihistamine like diphenhydramine (Benadryl). Stay hydrated, and avoid allergens that trigger your symptoms. If the symptoms persist or get worse, seek medical advice. Always have antihistamines on hand, and consider keeping an allergy action plan for quick reference in case of an emergency."],
+              "context_set": ""
+          },
+          {
+              "tag": "ScrapeFirstAid",
+              "patterns": ["What to do for a scrape?", "How to treat a scrape?", "First aid for scrapes?", "Best treatment for scrapes?", "How to handle a scrape?"],
+              "responses": ["To treat a scrape, start by washing your hands to prevent infection. Stop any bleeding by applying gentle pressure with a clean bandage or cloth. Clean the wound with running water, avoiding soap inside the scrape. Apply a thin layer of antibiotic ointment or petroleum jelly, then cover the scrape with a bandage. Change the bandage at least once a day or if it gets wet or dirty."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "ScrapeCleaning",
+              "patterns": ["How to clean a scrape?", "What's the best way to clean a scrape?", "Best method to clean scrapes?", "How to clean minor scrapes?", "Scrape cleaning tips"],
+              "responses": ["To clean a scrape, rinse the wound with running water to remove dirt and debris. Avoid using soap inside the wound, and don't use hydrogen peroxide or iodine, as they can irritate the scrape. If there's debris that won't come off with water, use sterilized tweezers to remove it. If you can't remove all debris or if the scrape is deep, seek medical attention."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "ScrapeBandage",
+              "patterns": ["Should I cover a scrape?", "How to bandage a scrape?", "Best way to cover a scrape?", "When to cover a scrape?", "Do scrapes need bandages?"],
+              "responses": ["It's a good idea to cover a scrape to keep it clean and prevent infection. You can use a bandage, rolled gauze, or gauze held in place with paper tape. Minor scrapes or scratches might not need covering, but it's best to cover the wound if it's deep or if you're concerned about dirt or infection. Change the bandage daily or if it becomes wet or dirty."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "ScrapeInfection",
+              "patterns": ["How to prevent infection in scrapes?", "Signs of infection in a scrape?", "Scrape infection?", "How to treat infected scrapes?", "Infection risks for scrapes"],
+              "responses": ["To prevent infection, clean the scrape thoroughly with water and cover it with a bandage. Apply antibiotic ointment or petroleum jelly to keep the scrape moist and reduce the risk of infection. Watch for signs of infection, like increasing pain, changes in color, drainage, warmth, or swelling around the wound. If you notice any signs of infection, seek medical attention immediately."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "ScrapeTetanus",
+              "patterns": ["When to get a tetanus shot for a scrape?", "Do I need a tetanus shot for a scrape?", "Tetanus shot for scrapes?", "When should you get a tetanus shot?", "Does a scrape require a tetanus shot?"],
+              "responses": ["Get a tetanus shot if you haven't had one in the past five years and the scrape is deep or dirty. If the scrape is minor and you've had a recent tetanus shot, you likely don't need another one. If you're unsure about your tetanus vaccine status or the risk associated with the scrape, consult with a healthcare professional for advice."],
+              "context_set": ""
+          },
+          {
+              "tag": "NauseaFirstAid",
+              "patterns": ["What to do for nausea?", "How to treat nausea?", "First aid for nausea?", "Best treatment for nausea?", "How to handle nausea?"],
+              "responses": ["To relieve nausea, try drinking clear, ice-cold drinks and eating light, bland foods like saltine crackers or plain bread. Avoid fried, greasy, or sweet foods. Eat slowly and in smaller portions throughout the day. If vomiting occurs, avoid solid foods and gradually drink clear liquids to stay hydrated. If nausea persists or you show signs of dehydration, seek medical attention."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "NauseaCauses",
+              "patterns": ["What causes nausea?", "Common causes of nausea?", "Why do I feel nauseated?", "Reasons for nausea?", "Nausea triggers?"],
+              "responses": ["Nausea can be caused by various factors, including gastrointestinal conditions, motion sickness, early pregnancy, intense pain, food poisoning, migraines, or certain medications. It can also be triggered by strong odors or overindulgence in alcohol. If nausea persists or is accompanied by severe symptoms, consult a healthcare professional for a proper diagnosis."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "NauseaDehydration",
+              "patterns": ["Can nausea cause dehydration?", "Signs of dehydration from nausea?", "How to prevent dehydration from nausea?", "Dehydration from vomiting?", "Dehydration risks with nausea?"],
+              "responses": ["Nausea and vomiting can lead to dehydration, especially in children. Signs of dehydration include dry lips and mouth, sunken eyes, rapid breathing, and in infants, a sunken fontanelle. To prevent dehydration, drink clear liquids in small amounts, and seek medical attention if you notice signs of dehydration. If nausea persists, consult a healthcare professional."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "NauseaPrevention",
+              "patterns": ["How to prevent nausea?", "Tips for avoiding nausea?", "Ways to prevent nausea?", "Preventing nausea?", "Best practices to avoid nausea?"],
+              "responses": ["To prevent nausea, eat small meals throughout the day, eat slowly, and avoid hard-to-digest foods. Rest after eating, and keep your head elevated to reduce the risk of nausea. If you often feel nauseated in the morning, eat a high-protein snack before bed or some crackers before getting out of bed. Staying hydrated and getting plenty of rest can also help prevent nausea."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "NauseaComplications",
+              "patterns": ["What are the complications of nausea?", "Possible complications from nausea?", "Risks of nausea?", "Can nausea cause complications?", "Health risks of nausea?"],
+              "responses": ["Nausea can lead to complications like dehydration, which is a significant concern, especially in children. It can also indicate a more severe underlying condition, such as concussions, meningitis, or appendicitis. If nausea is severe, persistent, or accompanied by other symptoms like vomiting blood, severe headache, or confusion, seek immediate medical attention."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "WhenToCallDoctorForNausea",
+              "patterns": ["When to call a doctor for nausea?", "When is nausea serious?", "Nausea emergency?", "When to seek medical help for nausea?", "How to know if nausea is serious?"],
+              "responses": ["You should call a doctor for nausea if it is accompanied by severe symptoms, lasts more than one day, or if home treatment doesn't work. Seek immediate medical attention if there's vomiting blood, severe abdominal pain, high fever, or rapid breathing or pulse. Children under six years old should see a doctor if they have vomiting for more than a few hours or show signs of dehydration."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "NauseaTreatment",
+              "patterns": ["How to treat nausea?", "Best treatment for nausea?", "Home remedies for nausea?", "Treating nausea?", "Medications for nausea?"],
+              "responses": ["To treat nausea, try home remedies such as drinking clear, ice-cold drinks, eating light and bland foods, and avoiding fried or greasy foods. If vomiting occurs, avoid solid foods and gradually increase the amount of clear liquids. Medications for nausea may also help, but consult a healthcare provider before using them. Rest and avoid activity after eating to prevent worsening nausea."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "PreventingVomiting",
+              "patterns": ["How to prevent vomiting?", "Tips to avoid vomiting?", "What to do to stop vomiting?", "Can you prevent vomiting?", "How to avoid vomiting after nausea?"],
+              "responses": ["To prevent vomiting, drink small amounts of clear, sweetened liquids and avoid solid foods until the nausea passes. Rest in a sitting position or with your head propped up to prevent further irritation. If motion sickness is the cause, face forward and avoid watching fast-moving objects. If vomiting persists or leads to severe dehydration, seek medical attention."],
+              "context_set": ""
+          },
+          {
+              "tag": "NosebleedFirstAid",
+              "patterns": ["What to do for a nosebleed?", "How to treat a nosebleed?", "First aid for nosebleeds?", "Best treatment for a nosebleed?", "How to stop a nosebleed?"],
+              "responses": ["To stop a nosebleed, sit up straight and lean your head slightly forward. Pinch the soft part of your nostrils below the bridge of the nose for at least 10 minutes while breathing through your mouth. Loosen any tight clothing around your neck, and apply a cold cloth to your forehead and the sides of your neck. After 10 minutes, release the pressure to check if the bleeding has stopped. If it persists, seek medical attention."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "NosebleedCauses",
+              "patterns": ["What causes nosebleeds?", "Why do I get nosebleeds?", "Common causes of nosebleeds?", "Nosebleed triggers?", "Why do children get nosebleeds?"],
+              "responses": ["Nosebleeds can be caused by various factors, including fragile blood vessels, warm or dry air, infections, allergies, bumps or falls, nose picking, or objects pushed into the nostril. In some cases, bleeding or clotting disorders may be the cause. If you have frequent nosebleeds, it's best to consult with a healthcare provider to understand the underlying cause and seek appropriate treatment."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "NosebleedSymptoms",
+              "patterns": ["What are the symptoms of a nosebleed?", "How do I know if I have a nosebleed?", "Signs of a nosebleed?", "Nosebleed symptoms?", "What does a nosebleed feel like?"],
+              "responses": ["Symptoms of a nosebleed include bleeding from one or both nostrils, a sensation of flowing liquid at the back of the throat, and an urge to swallow frequently. Nosebleeds can occur suddenly and may vary in severity. If you have persistent or heavy bleeding, seek medical attention."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "NosebleedPrevention",
+              "patterns": ["How to prevent nosebleeds?", "Best ways to avoid nosebleeds?", "Preventing nosebleeds?", "Tips to prevent nosebleeds?", "How to avoid nosebleeds?"],
+              "responses": ["To prevent nosebleeds, avoid nose picking, keep the air in your environment humidified, and avoid excessive nose blowing. Be gentle when cleaning your nose, and avoid inserting objects into your nostrils. Regularly moisturizing the inside of your nose with a saline spray can help keep the lining from drying out, reducing the risk of nosebleeds."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "NosebleedComplications",
+              "patterns": ["Can nosebleeds cause complications?", "Risks of nosebleeds?", "Complications from nosebleeds?", "Health risks of nosebleeds?", "What happens if a nosebleed doesn't stop?"],
+              "responses": ["Nosebleeds are usually harmless, but they can cause complications if they don't stop. Persistent nosebleeds can lead to significant blood loss, causing issues like anemia. If the bleeding doesn't stop after 10 minutes of first aid treatment, seek medical attention. In some cases, frequent nosebleeds might indicate an underlying health issue that requires further investigation."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "FrequentNosebleeds",
+              "patterns": ["Why do I keep getting nosebleeds?", "Reasons for frequent nosebleeds?", "How to treat frequent nosebleeds?", "Frequent nosebleeds?", "When to see a doctor for nosebleeds?"],
+              "responses": ["If you experience frequent nosebleeds, it's important to see a doctor. The cause might be due to ongoing infections, fragile blood vessels, or other underlying conditions. A healthcare provider can recommend appropriate treatment, such as antibiotic ointment for infections or other measures to reduce the frequency of nosebleeds. Frequent nosebleeds in children may require additional evaluation to ensure there are no serious complications."],
+              "context_set": ""
+          },
+          {
+              "tag": "DiabeticEmergencyFirstAid",
+              "patterns": ["What to do in a diabetic emergency?", "How to handle a diabetic emergency?", "First aid for diabetic emergencies?", "Best treatment for diabetic emergencies?", "How to help in a diabetic emergency?"],
+              "responses": ["In a diabetic emergency, first help the casualty into a comfortable position and reassure them. If they're experiencing low blood glucose (hypoglycemia), offer sugar such as glucose tablets, jellybeans, or a sweet drink (not diet drinks). If symptoms persist after 10-15 minutes, administer a further 15-20 grams of glucose. If they seem unresponsive or their condition worsens, call emergency services immediately. If they are experiencing high blood glucose (hyperglycemia), call emergency services and monitor their breathing and pulse while waiting for help."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "DiabeticEmergencySigns",
+              "patterns": ["What are the signs of a diabetic emergency?", "Symptoms of a diabetic emergency?", "How to recognize a diabetic emergency?", "Diabetic emergency symptoms?", "What does a diabetic emergency look like?"],
+              "responses": ["Signs of a diabetic emergency include weakness, faintness, hunger, sweating, cold clammy skin, rapid pulse, and confusion. For hypoglycemia, the person may also exhibit irrational behavior or trembling. Hyperglycemia can cause excessive thirst, frequent urination, hot dry skin, and a fruity smell of acetone on the breath. If you notice these signs, offer immediate assistance and call emergency services if needed."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "LowBloodSugar",
+              "patterns": ["What causes low blood sugar?", "Why does blood sugar drop?", "Causes of low blood sugar?", "Hypoglycemia causes?", "Why is blood sugar low?"],
+              "responses": ["Low blood sugar (hypoglycemia) can be caused by an imbalance between insulin and glucose levels in the blood. This can result from missing meals, taking too much insulin, or intense physical activity. In a diabetic emergency, if the person has their glucose gel or tablets, help them take it. Otherwise, provide a sugary drink or snack. If they don't improve quickly, seek emergency help."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "HighBloodSugar",
+              "patterns": ["What causes high blood sugar?", "Why does blood sugar rise?", "Causes of high blood sugar?", "Hyperglycemia causes?", "Why is blood sugar high?"],
+              "responses": ["High blood sugar (hyperglycemia) can be caused by eating too much, missing insulin doses, stress, or illness. Symptoms include excessive thirst, frequent urination, and blurred vision. If someone is experiencing a hyperglycemic emergency, call emergency services immediately. While waiting for help, monitor their breathing and pulse, and keep them as comfortable as possible."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "DiabeticEmergencyReassurance",
+              "patterns": ["How to calm someone in a diabetic emergency?", "How to reassure someone in a diabetic emergency?", "How to relax someone in a diabetic emergency?", "Diabetic emergency calming techniques?", "Keeping calm during a diabetic emergency?"],
+              "responses": ["In a diabetic emergency, reassurance is key. Keep the person calm and comfortable, offering supportive words and a safe environment. Avoid panic, and explain what's happening in simple terms. If it's a case of low blood sugar, offer them a sweet drink or snack if they can swallow safely. If they're experiencing high blood sugar, call emergency services and monitor their condition until help arrives."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "WhenToCallDoctorDiabeticEmergency",
+              "patterns": ["When to call a doctor for a diabetic emergency?", "Diabetic emergency and emergency services?", "When is a diabetic emergency serious?", "How to know if a diabetic emergency is serious?", "When to seek medical help for a diabetic emergency?"],
+              "responses": ["Call a doctor or emergency services for a diabetic emergency if the person doesn't improve quickly, becomes unresponsive, or shows severe symptoms like seizures or loss of consciousness. For low blood sugar, if there's no improvement after 10-15 minutes of glucose, seek emergency help. For high blood sugar, call for medical assistance immediately, as it can lead to serious complications."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "DiabeticEmergencyPrevention",
+              "patterns": ["How to prevent diabetic emergencies?", "Preventing diabetic emergencies?", "Tips to avoid diabetic emergencies?", "Diabetic emergency prevention?", "How to avoid diabetic emergencies?"],
+              "responses": ["To prevent diabetic emergencies, it's crucial to maintain stable blood sugar levels. This includes following a balanced diet, regularly monitoring blood sugar, taking medications as prescribed, and managing stress. Educate yourself about diabetes and understand the early signs of hypoglycemia and hyperglycemia. Keep emergency glucose or snacks on hand, and wear medical warning jewelry to alert others about your condition."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "DiabeticEmergencyTreatment",
+              "patterns": ["How to treat a diabetic emergency?", "Best treatment for diabetic emergencies?", "What to do in a diabetic emergency?", "Diabetic emergency treatment?", "How to handle a diabetic emergency?"],
+              "responses": ["In a diabetic emergency, treatment depends on whether it's hypoglycemia or hyperglycemia. For hypoglycemia, offer a sugary drink or snack, such as glucose tablets, and follow up with a sandwich or other food once symptoms improve. If it's hyperglycemia, call emergency services, and keep the person calm and comfortable. Continue to monitor their condition until help arrives, and follow their diabetes management plan."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "DiabeticEmergencyCPR",
+              "patterns": ["When to start CPR in a diabetic emergency?", "Diabetic emergency and CPR?", "Should I give CPR in a diabetic emergency?", "How to handle unresponsiveness in a diabetic emergency?", "When is CPR needed in a diabetic emergency?"],
+              "responses": ["If someone in a diabetic emergency becomes unresponsive, start CPR. Open their airway, check their breathing, and prepare to administer CPR if there's no response. Call emergency services immediately. It's crucial to act quickly, as unresponsiveness can lead to severe complications. Keep checking their breathing and pulse while waiting for medical help."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "FollowUpAfterDiabeticEmergency",
+              "patterns": ["What to do after a diabetic emergency?", "Follow-up care after a diabetic emergency?", "How to handle recovery from a diabetic emergency?", "What to do after hypoglycemia?", "How to recover from hyperglycemia?"],
+              "responses": ["After a diabetic emergency, ensure the person is stable and follow up with appropriate food or snacks to maintain blood sugar levels. For hypoglycemia, a sandwich or other food can help sustain their condition. For hyperglycemia, it's crucial to follow their diabetes management plan and take any prescribed medications. Encourage them to rest, monitor their blood sugar levels, and seek further medical advice if needed."],
+              "context_set": ""
+          },
+          {
+              "tag": "BruiseFirstAid",
+              "patterns": ["What to do for a bruise?", "How to treat a bruise?", "First aid for bruises?", "Best treatment for bruises?", "How to handle a bruise?"],
+              "responses": ["To treat a bruise, rest the affected area and apply a cold pack several times a day to reduce swelling. Keep the injured area elevated above heart level to reduce inflammation. You can take pain relievers like acetaminophen to manage discomfort. If the bruise is severe or doesn't improve, seek medical attention for further evaluation and treatment."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "BoneBruiseFirstAid",
+              "patterns": ["How to treat a bone bruise?", "First aid for bone bruises?", "What to do for a bone bruise?", "Best treatment for bone bruises?", "Bone bruise treatment tips?"],
+              "responses": ["Bone bruises need time to heal. To ease symptoms, rest the affected bone or joint, keep it elevated to reduce swelling, and apply a cold pack to the injury. You can take pain medications like acetaminophen to manage pain and inflammation. If needed, wear a brace to limit movement and support healing. Avoid weight-bearing activities if the bruise affects the legs or feet. Seek medical advice if symptoms persist or worsen."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "BruiseRecovery",
+              "patterns": ["How long does it take for a bruise to heal?", "Bruise recovery time?", "How long to recover from a bruise?", "Bone bruise recovery?", "Healing time for bruises?"],
+              "responses": ["Bruises generally heal within a few days to weeks, depending on their severity. Bone bruises may take longer, sometimes up to 3 months or more. The healing time depends on factors like the severity of the injury, your overall health, and whether you follow recommended treatment. If a bruise takes longer than expected to heal or shows signs of complications, seek medical advice."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "BruisePainRelief",
+              "patterns": ["How to relieve pain from a bruise?", "Pain relief for bruises?", "What helps with bruise pain?", "Best pain relief for bruises?", "Managing pain from bruises?"],
+              "responses": ["To relieve pain from a bruise, apply a cold pack to the affected area to reduce swelling and numb the pain. You can take over-the-counter pain relievers like acetaminophen or ibuprofen to manage discomfort. Elevate the bruised area and avoid pressure on it. If the pain persists or worsens, consult a healthcare professional for further evaluation."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "WhenToSeeDoctorForBruise",
+              "patterns": ["When should I see a doctor for a bruise?", "When is a bruise serious?", "Should I go to the doctor for a bruise?", "When to seek medical attention for a bruise?", "How to know if a bruise needs medical attention?"],
+              "responses": ["Seek medical attention for a bruise if it gets worse, doesn't reduce in size, or if the pain increases without responding to pain relief medication. If there's excessive swelling, numbness, or if you suspect a bone bruise, it's important to get checked by a healthcare professional. Also, see a doctor if the bruise is due to significant trauma or if it doesn't improve after a few weeks."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "PreventingBruises",
+              "patterns": ["How to prevent bruises?", "Best ways to avoid bruises?", "Bruise prevention?", "Tips to prevent bruises?", "How to reduce bruising?"],
+              "responses": ["To prevent bruises, take precautions to avoid injuries. Wear protective gear during sports or physical activities, and ensure your environment is safe to avoid falls or accidents. Strengthening muscles and maintaining bone health through a balanced diet with enough calcium and vitamin D can also reduce the risk of bruising. If you have a condition that makes you prone to bruising, follow your doctor's advice on prevention."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "BoneBruiseRecovery",
+              "patterns": ["How to recover from a bone bruise?", "Recovery from bone bruises?", "Best ways to recover from bone bruises?", "Healing from a bone bruise?", "Tips for bone bruise recovery?"],
+              "responses": ["Recovery from a bone bruise can take several weeks to months, depending on the severity. Rest the affected area and avoid weight-bearing activities. Apply cold packs to reduce swelling, and keep the area elevated above heart level. Pain relievers like acetaminophen can help manage discomfort. Follow your doctor's advice on when to resume activities and ensure you get enough calcium and vitamin D for bone health."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "ComplicationsOfBruises",
+              "patterns": ["Can bruises cause complications?", "Risks of bruises?", "Bruise complications?", "Health risks from bruises?", "What complications can bruises cause?"],
+              "responses": ["Bruises are usually harmless, but they can cause complications if not treated properly. If a bruise doesn't heal or shows signs of infection, seek medical attention. In rare cases, a bone bruise can lead to avascular necrosis, which is the death of bone tissue due to lack of blood flow. If you notice severe pain, excessive swelling, or changes in sensation around the bruise, consult a healthcare professional."],
+              "context_set": ""
+          },
+          {
+              "tag": "AsthmaFirstAid",
+              "patterns": ["What to do in an asthma attack?", "First aid for asthma?", "How to treat asthma?", "Best treatment for asthma?", "How to handle an asthma attack?"],
+              "responses": ["For asthma first aid, sit the person comfortably upright and reassure them. Give 4 puffs of blue/grey reliever puffer (like Ventolin or Asmol). Wait 4 minutes, then give 4 more puffs if needed. If breathing is still hard or worse after 4 minutes, keep giving 4 puffs every 4 minutes until ambulance arrives. Call 140 or emergency services if the person shows severe breathing problems or doesn't respond to first aid."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "AsthmaPuffer",
+              "patterns": ["How to use a blue/grey puffer?", "Asthma puffer instructions?", "How to use a puffer with a spacer?", "Instructions for asthma inhaler?", "Using asthma reliever puffer?"],
+              "responses": ["To use a blue/grey puffer with a spacer, remove the puffer cap and shake it. Insert the puffer upright into the spacer, and put the mouthpiece of the spacer between the person's teeth, sealing their lips around it. Press once on the puffer to release a puff into the spacer, and have the person take 4 breaths in and out of the spacer. Repeat until 4 puffs are taken, then replace the cap on the puffer."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "AsthmaEmergency",
+              "patterns": ["When to call ambulance for asthma?", "How to know if asthma is serious?", "Asthma emergency?", "Signs of asthma emergency?", "When is asthma dangerous?"],
+              "responses": ["Call 140 or emergency services for an asthma emergency if the person has severe breathing problems, can't talk normally, or shows signs of distress like chest tightness or wheezing. If the person doesn't improve after 4 puffs of the blue/grey puffer, or if breathing is still hard after 4 minutes, continue with 4 puffs every 4 minutes and call emergency services."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "AsthmaSymptoms",
+              "patterns": ["What are the symptoms of an asthma attack?", "Signs of asthma?", "How to know if it's asthma?", "Asthma attack symptoms?", "What does an asthma attack feel like?"],
+              "responses": ["Symptoms of an asthma attack include sudden shortness of breath, chest tightness, coughing, and wheezing. The person may also have difficulty talking and may appear distressed. If you're not sure it's asthma but the person has breathing problems, use a blue/grey reliever puffer and call emergency services. It's unlikely to harm them, even if it's not asthma."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "AsthmaSevereAllergy",
+              "patterns": ["What to do for severe allergic reactions?", "First aid for anaphylaxis?", "How to treat severe allergic reactions?", "What to do if someone has anaphylaxis?", "How to handle severe allergic reactions?"],
+              "responses": ["For severe allergic reactions or anaphylaxis, give adrenaline first with an autoinjector like EpiPen or Anapen if available. If the person has asthma and severe breathing difficulty, also give the blue/grey reliever puffer following the 4 steps of first aid for asthma. Call emergency services immediately, and keep monitoring the person's condition until help arrives."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "AsthmaNotSure",
+              "patterns": ["How to know if it's asthma?", "Asthma or not?", "When to use a reliever puffer?", "Is it asthma?", "How to identify an asthma attack?"],
+              "responses": ["If you're not sure it's asthma, but the person has breathing problems, use the blue/grey reliever puffer and call emergency services. This is unlikely to harm them, even if they don't have asthma. If the person stays conscious but has breathing difficulty, apply first aid for asthma and call emergency services if symptoms worsen or persist."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "AsthmaCalming",
+              "patterns": ["How to calm someone during an asthma attack?", "Calming techniques for asthma?", "How to reassure someone during an asthma attack?", "How to relax during an asthma attack?", "Tips for calming an asthma attack?"],
+              "responses": ["To calm someone during an asthma attack, sit them comfortably upright and reassure them. Encourage them to breathe slowly and deeply. Avoid panic, and provide a calm environment. Keep giving 4 puffs of the blue/grey reliever puffer every 4 minutes if needed, and call emergency services if breathing doesn't improve. Keeping the person calm helps reduce stress and may ease breathing difficulties."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "AsthmaMedication",
+              "patterns": ["What medication to use for asthma?", "Best medication for asthma?", "Asthma reliever puffer?", "Asthma medication guide?", "Asthma puffer types?"],
+              "responses": ["The primary medication for asthma first aid is the blue/grey reliever puffer, like Ventolin or Asmol. These contain bronchodilators to help open airways and improve breathing. Use a spacer if available, and follow the instructions for administering puffs. If asthma symptoms persist or get worse, seek medical advice to determine if other medications are needed."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "AsthmaFollowUp",
+              "patterns": ["What to do after an asthma attack?", "Follow-up after asthma?", "How to recover from an asthma attack?", "Recovery from asthma attack?", "Post-asthma attack care?"],
+              "responses": ["After an asthma attack, ensure the person is breathing normally and feels better. Follow up with a doctor for a check-up to determine the cause of the attack and adjust medication if needed. If asthma symptoms return or worsen, seek immediate medical advice. Continue to monitor their breathing and ensure they have their reliever puffer readily available for future asthma attacks."],
+              "context_set": ""
+          },
+          
+          {
+              "tag": "AsthmaEmergencyPreparation",
+              "patterns": ["How to prepare for asthma emergencies?", "Asthma emergency readiness?", "What to have for asthma emergencies?", "Asthma emergency preparation tips?", "How to stay prepared for asthma attacks?"],
+              "responses": ["To prepare for asthma emergencies, ensure the person has their reliever puffer with them at all times. Keep spare blue/grey puffers in your first aid kit or at work/school. Learn the steps for first aid during an asthma attack, and know when to call emergency services. If you suspect an asthma attack, follow the recommended first aid steps and seek medical assistance if needed."],
+              "context_set": ""
+          },    
+          {
+            "tag": "BreathingDifficultiesFirstAid",
+            "patterns": ["What to do if someone has breathing difficulties?", "How to help with breathing difficulties?", "First aid for breathing difficulties?", "How to handle breathing difficulties?", "Best treatment for breathing problems?"],
+            "responses": ["For breathing difficulties, help the person into a comfortable, upright position. Encourage them to take slow, deep breaths. If they have asthma, use their reliever puffer following the proper steps. If symptoms worsen or the person becomes unresponsive, call emergency services immediately. Monitor their breathing and pulse while waiting for help."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesSymptoms",
+            "patterns": ["What are the signs of breathing difficulties?", "Symptoms of breathing difficulties?", "How to identify breathing difficulties?", "What causes breathing difficulties?", "How to know if someone has breathing difficulties?"],
+            "responses": ["Signs of breathing difficulties include rapid or shallow breathing, wheezing, gasping for air, chest tightness, and a blue or pale tint to the skin. Other symptoms can be difficulty talking or coughing. If you notice any of these signs, take immediate action to help the person and call emergency services if needed."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesCauses",
+            "patterns": ["What causes breathing difficulties?", "Why am I having trouble breathing?", "Common causes of breathing difficulties?", "Breathing difficulties triggers?", "Why can't I breathe properly?"],
+            "responses": ["Breathing difficulties can be caused by various factors, including asthma, allergies, respiratory infections, or heart conditions. Environmental factors like smoke or air pollution can also trigger breathing problems. If you're experiencing breathing difficulties, consult a healthcare professional to determine the cause and appropriate treatment."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesEmergency",
+            "patterns": ["When to call ambulance for breathing difficulties?", "Breathing difficulties emergency?", "How to know if breathing difficulties are serious?", "When to seek medical help for breathing difficulties?", "Signs of breathing difficulties emergency?"],
+            "responses": ["Call emergency services for breathing difficulties if the person has severe trouble breathing, can't talk, or shows signs of distress like chest pain or blue lips. If the person becomes unresponsive or shows signs of shock, seek immediate medical attention. Keep monitoring their breathing and pulse while waiting for help."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesPrevention",
+            "patterns": ["How to prevent breathing difficulties?", "Best ways to avoid breathing difficulties?", "Breathing difficulties prevention?", "Tips to prevent breathing difficulties?", "How to reduce the risk of breathing difficulties?"],
+            "responses": ["To prevent breathing difficulties, avoid known triggers like allergens, smoke, or pollutants. Keep your environment clean and well-ventilated. Follow your doctor's advice on managing conditions like asthma or allergies. Stay physically active to maintain lung health, and keep emergency medication or inhalers available if needed."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesCalming",
+            "patterns": ["How to calm someone with breathing difficulties?", "Calming techniques for breathing difficulties?", "How to relax during breathing difficulties?", "Tips for calming breathing problems?", "How to keep calm with breathing difficulties?"],
+            "responses": ["To calm someone with breathing difficulties, encourage slow, deep breaths. Provide a calm environment and reassure them. If the person has medication or an inhaler, help them use it. Keep them sitting upright to ease breathing. If symptoms worsen or the person becomes unresponsive, call emergency services immediately."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesAsthma",
+            "patterns": ["Is breathing difficulty a sign of asthma?", "Asthma and breathing difficulties?", "How to manage breathing difficulties with asthma?", "Breathing problems with asthma?", "Is asthma causing my breathing difficulties?"],
+            "responses": ["Breathing difficulties can be a sign of asthma. Symptoms may include wheezing, chest tightness, and shortness of breath. If you have asthma, use your reliever puffer as directed. If breathing problems persist or worsen, call emergency services. Regularly monitor your condition and follow your doctor's asthma management plan to prevent severe breathing issues."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesAllergies",
+            "patterns": ["Can allergies cause breathing difficulties?", "Breathing problems from allergies?", "How to manage breathing difficulties from allergies?", "Allergies and breathing issues?", "What to do if allergies cause breathing difficulties?"],
+            "responses": ["Allergies can cause breathing difficulties, especially in cases of severe allergic reactions or anaphylaxis. If you suspect allergies are causing breathing problems, use an adrenaline autoinjector like EpiPen if available, then use a reliever puffer if the person has asthma. Call emergency services immediately if the person shows signs of severe distress or has difficulty breathing."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesRecovery",
+            "patterns": ["How to recover from breathing difficulties?", "Recovery from breathing problems?", "What to do after breathing difficulties?", "Breathing difficulties recovery tips?", "How to regain normal breathing?"],
+            "responses": ["To recover from breathing difficulties, ensure you're in a calm environment with plenty of fresh air. Follow your doctor's advice on treatment and use any prescribed medication. If you have asthma or allergies, avoid known triggers and stay away from smoke or pollution. If symptoms persist or worsen, seek medical advice to ensure a proper recovery."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesMedication",
+            "patterns": ["What medication to use for breathing difficulties?", "Medication for breathing problems?", "How to treat breathing difficulties?", "Best medication for breathing issues?", "Medications for breathing difficulties?"],
+            "responses": ["Medication for breathing difficulties depends on the cause. For asthma, use a reliever puffer to help open airways. For severe allergic reactions, use an adrenaline autoinjector like EpiPen. If you're unsure, consult a healthcare professional to determine the appropriate medication. In an emergency, call emergency services for further assistance."],
+            "context_set": ""
+        }, 
+        {
+            "tag": "BreathingDifficultiesImprovement",
+            "patterns": ["How can I improve my breathing capacity?", "Ways to enhance respiratory function?", "Techniques to boost breathing capacity?", "Tips for improving breathing efficiency?", "Exercises to increase lung capacity?"],
+            "responses": ["Improving breathing capacity can be achieved through regular aerobic exercise, such as walking, swimming, or cycling. Additionally, practicing deep breathing exercises, maintaining good posture, and avoiding smoking can contribute to better respiratory function."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesExercises",
+            "patterns": ["Are there breathing exercises to help with respiratory issues?", "What exercises can improve breathing?", "Breathing techniques for better respiratory health?", "Exercises for respiratory improvement?", "How to perform breathing exercises?"],
+            "responses": ["Yes, there are several breathing exercises that can help with respiratory issues. Examples include diaphragmatic breathing, pursed lip breathing, and alternate nostril breathing. These exercises can improve lung function, reduce shortness of breath, and promote relaxation."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesLifestyle",
+            "patterns": ["What lifestyle changes can alleviate breathing difficulties?", "Changes to lifestyle for better breathing?", "Improving breathing through lifestyle adjustments?", "Healthy habits for respiratory health?", "How to adapt lifestyle to ease breathing problems?"],
+            "responses": ["Lifestyle changes that can alleviate breathing difficulties include maintaining a healthy weight, avoiding exposure to pollutants and allergens, practicing good posture, managing stress effectively, and staying hydrated. Additionally, quitting smoking and limiting alcohol intake can also improve respiratory health."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesStressAnxiety",
+            "patterns": ["Can stress or anxiety contribute to breathing problems?", "Relationship between stress and breathing difficulties?", "How does anxiety affect respiratory function?", "Managing breathing difficulties caused by stress?", "Breathing techniques for anxiety relief?"],
+            "responses": ["Yes, stress and anxiety can contribute to breathing problems by triggering shallow breathing, hyperventilation, or panic attacks. Techniques such as mindfulness meditation, progressive muscle relaxation, and deep breathing exercises can help manage stress and alleviate associated breathing difficulties."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesDiet",
+            "patterns": ["What role does diet play in managing breathing difficulties?", "Dietary changes for better respiratory health?", "Foods to avoid for improved breathing?", "Nutrition tips for respiratory function?", "How does diet affect breathing?"],
+            "responses": ["A balanced diet rich in fruits, vegetables, lean proteins, and whole grains can support respiratory health by providing essential nutrients and antioxidants. Avoiding foods that may trigger allergies or exacerbate respiratory conditions, such as dairy or processed foods, can also help manage breathing difficulties."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesNaturalRemedies",
+            "patterns": ["Are there natural remedies or supplements that aid in breathing?", "Herbal remedies for respiratory issues?", "Natural supplements for better breathing?", "Alternative treatments for breathing difficulties?", "Home remedies for respiratory health?"],
+            "responses": ["Certain natural remedies and supplements may help improve breathing, such as eucalyptus oil, ginger, turmeric, and vitamin C. However, it's essential to consult with a healthcare professional before using any natural remedies or supplements, especially if you have pre-existing medical conditions or are taking medications."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesSmoking",
+            "patterns": ["How does smoking affect breathing?", "Impact of smoking on respiratory health?", "Quitting smoking for better breathing?", "Can smoking cause breathing difficulties?", "Breathing problems caused by smoking?"],
+            "responses": ["Smoking can significantly impact respiratory health by damaging the lungs, reducing lung function, and increasing the risk of respiratory infections and diseases such as chronic obstructive pulmonary disease (COPD) and lung cancer. Quitting smoking is essential for improving breathing and overall health."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesObesity",
+            "patterns": ["Can obesity impact respiratory function?", "Relationship between obesity and breathing difficulties?", "Effects of excess weight on breathing?", "Breathing problems associated with obesity?", "Managing breathing difficulties in overweight individuals?"],
+            "responses": ["Yes, obesity can affect respiratory function by reducing lung capacity, causing shortness of breath, and increasing the risk of conditions such as sleep apnea and obesity hypoventilation syndrome. Losing weight through a combination of healthy diet, regular exercise, and lifestyle changes can help improve breathing in overweight individuals."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesAthletes",
+            "patterns": ["Are there specific breathing techniques for athletes to enhance performance?", "Breathing exercises for sports performance?", "How do athletes improve breathing efficiency?", "Tips for better breathing during exercise?", "Respiratory training for athletes?"],
+            "responses": ["Athletes can improve breathing efficiency and performance by incorporating specific breathing techniques into their training regimen, such as rhythmic breathing, breath control exercises, and diaphragmatic breathing. Proper breathing during exercise can enhance oxygen delivery to muscles and improve endurance."],
+            "context_set": ""
+        },
+        
+        {
+            "tag": "BreathingDifficultiesLongTermEffects",
+            "patterns": ["What are the long-term effects of untreated breathing difficulties?", "Consequences of neglecting respiratory issues?", "Health risks of untreated breathing problems?", "Untreated breathing difficulties complications?", "Effects of chronic respiratory conditions?"],
+            "responses": ["Untreated breathing difficulties can lead to various long-term effects and complications, including decreased quality of life, exacerbation of respiratory conditions, increased risk of respiratory infections, and progression of lung diseases such as asthma or COPD. It's crucial to seek timely medical attention and follow treatment recommendations to prevent long-term complications."],
+            "context_set": ""
+        }, 
+        {
+          "tag": "CoughingCauses",
+          "patterns": ["What causes coughing?", "Why do we cough?", "Common reasons for coughing?", "Triggers of coughing?", "What leads to coughing?"],
+          "responses": ["Coughing can be caused by various factors, including respiratory infections like the common cold or flu, allergies, asthma, environmental irritants, or even acid reflux."],
+          "context_set": ""
+      },
+      {
+          "tag": "TypesOfCoughs",
+          "patterns": ["What are the types of coughs?", "Difference between dry and wet coughs?", "Dry cough vs. productive cough?", "How to distinguish between cough types?", "What characterizes a dry cough?"],
+          "responses": ["Coughs can be categorized as dry or productive (wet). A dry cough typically produces no mucus, while a productive cough brings up phlegm or mucus."],
+          "context_set": ""
+      },
+      {
+          "tag": "CoughingAndCOVID19",
+          "patterns": ["Is coughing a symptom of COVID-19?", "Coughing and COVID-19 connection?", "COVID-19 and persistent cough?", "New cough and COVID-19?", "When to suspect COVID-19 with coughing?"],
+          "responses": ["In the context of COVID-19, coughing is one of the common symptoms. If you develop a new, persistent cough, especially accompanied by other symptoms like fever or shortness of breath, it's important to seek medical advice and consider getting tested for COVID-19."],
+          "context_set": ""
+      },
+      {
+          "tag": "HomeRemediesForCoughs",
+          "patterns": ["What are some home remedies for coughs?", "Natural remedies for coughing?", "Home treatments for coughs?", "DIY cough remedies?", "How to relieve coughing at home?"],
+          "responses": ["Home remedies for coughs include staying hydrated, using a humidifier, consuming honey or herbal teas, gargling with salt water, and inhaling steam. However, if coughing persists or worsens, it's advisable to seek medical advice."],
+          "context_set": ""
+      },
+      {
+          "tag": "CoughingDuration",
+          "patterns": ["How long does a cough usually last?", "Duration of coughing episodes?", "Normal coughing duration?", "When should a cough subside?", "Is it normal for a cough to last long?"],
+          "responses": ["The duration of a cough can vary depending on its cause. While some coughs may resolve within a few days to a week, others, especially those caused by respiratory infections, may persist for several weeks. If a cough lasts longer than expected or is accompanied by concerning symptoms, consult a healthcare professional."],
+          "context_set": ""
+      },
+      {
+          "tag": "CoughingTriggers",
+          "patterns": ["What triggers coughing?", "Common coughing triggers?", "Factors that induce coughing?", "Why does coughing worsen in certain situations?", "Things that make coughing worse?"],
+          "responses": ["Coughing can be triggered by various factors such as irritants in the air, allergens, smoke, dust, cold air, strong odors, and respiratory infections. Identifying and avoiding these triggers can help reduce coughing episodes."],
+          "context_set": ""
+      },
+      {
+          "tag": "CoughingAtNight",
+          "patterns": ["Why do I cough more at night?", "Nighttime coughing causes?", "How to stop coughing at night?", "Remedies for nighttime coughing?", "Why does coughing worsen when lying down?"],
+          "responses": ["Coughing at night can be attributed to postnasal drip, lying flat which can allow mucus to pool in the throat, or conditions like gastroesophageal reflux disease (GERD). Elevating the head during sleep, using a humidifier, or taking cough suppressants before bedtime may help alleviate nighttime coughing."],
+          "context_set": ""
+      },
+      {
+          "tag": "CoughingInChildren",
+          "patterns": ["Why do children cough frequently?", "Causes of coughing in kids?", "Common coughing triggers in children?", "How to manage coughing in children?", "When is a child's cough concerning?"],
+          "responses": ["Children may cough frequently due to respiratory infections, allergies, asthma, exposure to irritants, or postnasal drip. It's essential to monitor a child's cough and seek medical advice if it persists, is accompanied by fever, difficulty breathing, or other concerning symptoms."],
+          "context_set": ""
+      },
+      {
+          "tag": "CoughingAndSmoking",
+          "patterns": ["How does smoking contribute to coughing?", "Impact of smoking on coughing?", "Coughing and smoking connection?", "Can quitting smoking reduce coughing?", "Why do smokers often have a persistent cough?"],
+          "responses": ["Smoking can contribute to coughing by irritating the airways, damaging lung tissue, and impairing the ability of cilia (tiny hair-like structures) to clear mucus. Quitting smoking can lead to improvement in coughing over time as the lungs heal and respiratory function improves."],
+          "context_set": ""
+      },
+      {
+          "tag": "PersistentCoughing",
+          "patterns": ["Why won't my cough go away?", "Causes of persistent coughing?", "Chronic coughing reasons?", "How to treat a persistent cough?", "When should I see a doctor for a persistent cough?"],
+          "responses": ["Persistent coughing may be caused by underlying conditions such as asthma, allergies, chronic bronchitis, GERD, or even lung cancer. It's important to consult a healthcare professional if a cough persists for more than a few weeks or is accompanied by other concerning symptoms."],
+          "context_set": ""
+      },
+      {
+          "tag": "CoughingComplications",
+          "patterns": ["What complications can arise from frequent coughing?", "Consequences of persistent coughing?", "Health risks associated with chronic coughing?", "Untreated coughing complications?", "Long-term effects of frequent coughing?"],
+          "responses": ["Frequent or persistent coughing can lead to complications such as exhaustion, disrupted sleep, sore throat, chest pain, urinary incontinence (especially in women), and even fractured ribs or fainting spells in severe cases. It's important to address the underlying cause of the cough to prevent such complications."],
+          "context_set": ""
+      }, 
+      {
+        "tag": "BreathingProblemsCauses",
+        "patterns": ["What causes breathing problems?", "Why am I having trouble breathing?", "Common causes of breathing difficulties?", "Breathing difficulties triggers?", "Why can't I breathe properly?"],
+        "responses": ["Breathing problems can be caused by various factors, including asthma, allergies, respiratory infections, or heart conditions. Environmental factors like smoke or air pollution can also trigger breathing problems. If you're experiencing breathing difficulties, consult a healthcare professional to determine the cause and appropriate treatment."],
+        "context_set": ""
+    },
+    {
+        "tag": "BreathingProblemsSymptoms",
+        "patterns": ["What are the symptoms of breathing problems?", "Signs of breathing difficulties?", "How to identify breathing difficulties?", "What causes shortness of breath?", "How to know if someone has breathing difficulties?"],
+        "responses": ["Symptoms of breathing problems include rapid or shallow breathing, wheezing, gasping for air, chest tightness, and a blue or pale tint to the skin. Other symptoms can be difficulty talking or coughing. If you notice any of these signs, take immediate action to help the person and call emergency services if needed."],
+        "context_set": ""
+    },
+    {
+        "tag": "BreathingProblemsTreatment",
+        "patterns": ["How to treat breathing problems?", "Best treatment for breathing difficulties?", "What medication helps with breathing problems?", "Breathing problems remedies?", "How to alleviate breathing difficulties?"],
+        "responses": ["Treatment for breathing problems depends on the underlying cause. For asthma, medications like bronchodilators and corticosteroids may be prescribed. Oxygen therapy, antibiotics, or antiviral drugs may be necessary for respiratory infections. Consult a healthcare professional for proper diagnosis and treatment."],
+        "context_set": ""
+    },
+    {
+        "tag": "BreathingProblemsEmergency",
+        "patterns": ["When to call ambulance for breathing problems?", "Breathing difficulties emergency?", "How to know if breathing difficulties are serious?", "When to seek medical help for breathing problems?", "Signs of breathing problems emergency?"],
+        "responses": ["Call emergency services for breathing problems if the person has severe trouble breathing, can't talk, or shows signs of distress like chest pain or blue lips. If the person becomes unresponsive or shows signs of shock, seek immediate medical attention. Keep monitoring their breathing and pulse while waiting for help."],
+        "context_set": ""
+    },
+    {
+        "tag": "BreathingProblemsPrevention",
+        "patterns": ["How to prevent breathing problems?", "Best ways to avoid breathing difficulties?", "Breathing difficulties prevention?", "Tips to prevent shortness of breath?", "How to reduce the risk of breathing problems?"],
+        "responses": ["To prevent breathing problems, avoid known triggers like allergens, smoke, or pollutants. Keep your environment clean and well-ventilated. Follow your doctor's advice on managing conditions like asthma or allergies. Stay physically active to maintain lung health, and keep emergency medication or inhalers available if needed."],
+        "context_set": ""
+    },
+    {
+        "tag": "BreathingProblemsManagement",
+        "patterns": ["How to manage breathing problems?", "Ways to cope with breathing difficulties?", "Breathing problems coping strategies?", "Managing shortness of breath?", "Tips for living with breathing problems?"],
+        "responses": ["Managing breathing problems involves identifying triggers, following a treatment plan prescribed by a healthcare professional, practicing relaxation techniques, and maintaining a healthy lifestyle. It's important to seek medical advice for proper management of chronic breathing conditions."],
+        "context_set": ""
+    },
+    {
+        "tag": "BreathingProblemsAnxiety",
+        "patterns": ["Can anxiety cause breathing problems?", "How does anxiety affect breathing?", "Anxiety and shortness of breath connection?", "Managing breathing difficulties caused by anxiety?", "Breathing techniques for anxiety relief?"],
+        "responses": ["Yes, anxiety can contribute to breathing problems by triggering shallow breathing, hyperventilation, or panic attacks. Techniques such as mindfulness meditation, progressive muscle relaxation, and deep breathing exercises can help manage stress and alleviate associated breathing difficulties."],
+        "context_set": ""
+    },
+    {
+        "tag": "BreathingProblemsExercise",
+        "patterns": ["Can exercise help with breathing problems?", "Exercises for improving breathing?", "How to strengthen lungs?", "Breathing exercises for better respiratory health?", "Physical activity for managing breathing difficulties?"],
+        "responses": ["Regular exercise, particularly aerobic activities like walking, swimming, or cycling, can improve lung function and overall respiratory health. Additionally, specific breathing exercises like diaphragmatic breathing or pursed lip breathing can help strengthen respiratory muscles and enhance breathing efficiency."],
+        "context_set": ""
+    },
+    {
+        "tag": "BreathingProblemsDiet",
+        "patterns": ["What role does diet play in managing breathing problems?", "Dietary changes for better respiratory health?", "Foods to avoid for improved breathing?", "Nutrition tips for respiratory function?", "How does diet affect breathing?"],
+        "responses": ["A balanced diet rich in fruits, vegetables, lean proteins, and whole grains can support respiratory health by providing essential nutrients and antioxidants. Avoiding foods that may trigger allergies or exacerbate respiratory conditions, such as dairy or processed foods, can also help manage breathing problems."],
+        "context_set": ""
+    },
+    {
+        "tag": "BreathingProblemsSmoking",
+        "patterns": ["How does smoking affect breathing?", "Impact of smoking on respiratory health?", "Quitting smoking for better breathing?", "Can smoking cause breathing problems?", "Breathing problems caused by smoking?"],
+        "responses": ["Smoking can significantly impact respiratory health by damaging the lungs, reducing lung function, and increasing the risk of respiratory infections and diseases such as chronic obstructive pulmonary disease (COPD) and lung cancer. Quitting smoking is essential for improving breathing and overall health."],
+        "context_set": ""
+    }, 
+    {
+      "tag": "FingerInjuryCauses",
+      "patterns": ["What causes finger injuries?", "Why do fingers get hurt?", "Common reasons for finger pain?", "Triggers of finger injuries?", "How do fingers break or get injured?"],
+      "responses": ["Finger injuries can occur due to various reasons, including accidents, trauma from sports or falls, repetitive strain, crushing injuries, cuts, or fractures. It's important to handle finger injuries carefully and seek medical attention if necessary."],
+      "context_set": ""
+  },
+  {
+      "tag": "FingerFractureSymptoms",
+      "patterns": ["What are the symptoms of a fractured finger?", "Signs of finger fracture?", "How to identify a broken finger?", "What does a broken finger feel like?", "Symptoms of finger bone fracture?"],
+      "responses": ["Symptoms of a fractured finger include pain, swelling, bruising, deformity, difficulty moving the finger, and tenderness at the site of injury. In severe cases, there may be an obvious deformity or a visible bone break. If you suspect a finger fracture, seek medical attention for proper diagnosis and treatment."],
+      "context_set": ""
+  },
+  {
+      "tag": "FingerSprainCauses",
+      "patterns": ["What causes finger sprains?", "Why do fingers get sprained?", "Common reasons for finger sprains?", "Triggers of finger ligament injuries?", "How do fingers get sprained?"],
+      "responses": ["Finger sprains occur when the ligaments supporting the joints in the fingers are stretched or torn. They can result from activities such as sports, falls, or accidents where the finger is forcefully bent or twisted. Proper rest, immobilization, and rehabilitation are important for healing finger sprains."],
+      "context_set": ""
+  },
+  {
+      "tag": "FingerJointPainCauses",
+      "patterns": ["What causes pain in finger joints?", "Why do finger joints hurt?", "Common reasons for finger joint pain?", "Triggers of finger joint discomfort?", "How do finger joints become painful?"],
+      "responses": ["Pain in finger joints can be caused by conditions like osteoarthritis, rheumatoid arthritis, gout, injury, overuse, or inflammation of the tendons. Activities that involve repetitive motions or gripping can exacerbate finger joint pain. It's important to seek medical advice for proper diagnosis and treatment."],
+      "context_set": ""
+  },
+  {
+      "tag": "FingerDislocationSymptoms",
+      "patterns": ["What are the symptoms of a dislocated finger?", "Signs of finger dislocation?", "How to identify a dislocated finger?", "What does a dislocated finger feel like?", "Symptoms of finger joint dislocation?"],
+      "responses": ["Symptoms of a dislocated finger include severe pain, swelling, deformity, inability to move the finger, and numbness or tingling. The finger may appear misaligned or disfigured. Immediate medical attention is necessary to relocate the dislocated finger and prevent further complications."],
+      "context_set": ""
+  },
+  {
+      "tag": "FingerPainManagement",
+      "patterns": ["How to manage finger pain?", "Ways to relieve finger discomfort?", "Finger pain relief strategies?", "Managing pain in injured fingers?", "Tips for alleviating finger pain?"],
+      "responses": ["To manage finger pain, rest the injured finger, apply ice packs to reduce swelling, elevate the hand, and take over-the-counter pain relievers if necessary. Avoid activities that aggravate the pain and follow any prescribed treatment plan recommended by a healthcare professional."],
+      "context_set": ""
+  },
+  {
+      "tag": "FingerInjuryPrevention",
+      "patterns": ["How to prevent finger injuries?", "Best ways to avoid finger pain?", "Finger injury prevention tips?", "Tips to protect fingers from injury?", "How to reduce the risk of finger injuries?"],
+      "responses": ["To prevent finger injuries, use protective gear during sports or activities that pose a risk of finger injury. Avoid placing excessive strain on the fingers and practice proper hand and finger positioning when performing tasks. Strengthening exercises and maintaining overall hand and wrist health can also help prevent injuries."],
+      "context_set": ""
+  },
+  {
+      "tag": "FingerInjuryRecovery",
+      "patterns": ["How to recover from finger injuries?", "Recovery from finger pain?", "What to do after injuring a finger?", "Finger injury recovery tips?", "How to regain normal function after a finger injury?"],
+      "responses": ["To recover from finger injuries, follow your healthcare provider's recommendations for rest, immobilization, and rehabilitation exercises. Attend follow-up appointments as scheduled and avoid activities that may reinjure the finger. Gradually reintroduce hand movements and exercises to regain strength and function."],
+      "context_set": ""
+  },
+  {
+      "tag": "FingerInjuryComplications",
+      "patterns": ["What complications can arise from finger injuries?", "Consequences of untreated finger injuries?", "Health risks of finger trauma?", "Untreated finger injury complications?", "Effects of chronic finger pain?"],
+      "responses": ["Untreated finger injuries can lead to complications such as chronic pain, stiffness, decreased range of motion, joint instability, and even permanent disability. It's important to seek prompt medical attention for proper diagnosis and treatment to prevent long-term complications."],
+      "context_set": ""
+  },
+  {
+      "tag": "FingerInjuryFirstAid",
+      "patterns": ["What to do if I injure my finger?", "First aid for finger injuries?", "How to treat a hurt finger?", "Steps for immediate finger injury care?", "What to do after injuring a finger?"],
+      "responses": ["If you injure your finger, immediately apply ice to reduce swelling and elevate the hand. Gently clean the injured area and apply a sterile bandage if there's a cut or open wound. If there's severe pain, deformity, or difficulty moving the finger, seek medical attention promptly."],
+      "context_set": ""
+  },    
+  {
+    "tag": "TeethFirstAidKnockedOut",
+    "patterns": ["What to do if a tooth gets knocked out?", "First aid for a knocked-out tooth?", "Emergency care for a knocked-out tooth?", "Steps to take if a tooth is knocked out?", "Handling a knocked-out tooth?"],
+    "responses": ["If a tooth gets knocked out, handle it carefully by the crown (top part) and avoid touching the root. Rinse it gently with water if dirty, but do not scrub or remove any attached tissue. Try to reinsert the tooth into its socket and hold it in place by gently biting down on clean gauze or cloth. If reinsertion isn't possible, keep the tooth moist by placing it in milk or a tooth preservation kit. Seek emergency dental care immediately."],
+    "context_set": ""
+},
+{
+    "tag": "TeethFirstAidChipped",
+    "patterns": ["What to do if a tooth chips or breaks?", "First aid for a chipped tooth?", "Emergency care for a broken tooth?", "Steps to take if a tooth chips?", "Handling a chipped tooth?"],
+    "responses": ["If a tooth chips or breaks, rinse your mouth with warm water to clean the area. If there's bleeding, apply pressure with gauze for a few minutes until it stops. Use dental wax or sugarless gum to cover any sharp edges to prevent cutting your mouth. Apply a cold compress to reduce swelling and relieve pain. Contact your dentist for an appointment to assess the damage and determine appropriate treatment."],
+    "context_set": ""
+},
+{
+    "tag": "TeethFirstAidLoose",
+    "patterns": ["What to do if a tooth becomes loose?", "First aid for a loose tooth?", "Emergency care for a loose tooth?", "Steps to take if a tooth is loose?", "Handling a loose tooth?"],
+    "responses": ["If a tooth becomes loose due to injury, avoid wiggling or touching it to prevent further damage. Eat soft foods and avoid biting down on the affected tooth. Rinse your mouth with salt water to help keep the area clean and reduce inflammation. Apply a cold compress to reduce pain and swelling. Contact your dentist for an evaluation to determine the best course of action."],
+    "context_set": ""
+},
+{
+    "tag": "TeethFirstAidToothache",
+    "patterns": ["What to do for a severe toothache?", "First aid for toothache relief?", "Emergency care for a toothache?", "Steps to take for immediate toothache relief?", "Handling a severe toothache?"],
+    "responses": ["For immediate relief from a severe toothache, rinse your mouth with warm salt water to help reduce inflammation and cleanse the area. Floss gently to remove any food particles that may be causing discomfort. Apply a cold compress to the outside of your cheek to numb the area and alleviate pain. Take over-the-counter pain medication as directed. Contact your dentist for an appointment to address the underlying cause of the toothache."],
+    "context_set": ""
+},
+{
+    "tag": "TeethFirstAidObjectStuck",
+    "patterns": ["What to do if something gets stuck between teeth?", "First aid for an object stuck between teeth?", "Emergency care for a foreign object lodged between teeth?", "Steps to take if something is stuck between teeth?", "Handling a foreign object stuck between teeth?"],
+    "responses": ["If something gets stuck between your teeth, try using dental floss to gently remove it. Be careful not to push the object further between your teeth. If flossing doesn't work, try using an interdental brush or water flosser to dislodge the object. Avoid using sharp or pointed objects that could damage your gums or teeth. If you're unable to remove the object, contact your dentist for assistance."],
+    "context_set": ""
+},
+{
+    "tag": "TeethFirstAidBleedingGums",
+    "patterns": ["What to do for bleeding gums?", "First aid for bleeding gums?", "Emergency care for bleeding gums?", "Steps to take for immediate bleeding gum relief?", "Handling bleeding gums?"],
+    "responses": ["If your gums are bleeding, gently rinse your mouth with warm salt water to help reduce inflammation and cleanse the area. Avoid brushing or flossing aggressively, as this could exacerbate the bleeding. Apply gentle pressure to the affected area with a clean piece of gauze or cloth to help stop the bleeding. Contact your dentist if the bleeding persists or if you have other symptoms such as pain or swelling."],
+    "context_set": ""
+},
+{
+    "tag": "TeethFirstAidDentalAbscess",
+    "patterns": ["What to do if you suspect a dental abscess?", "First aid for a dental abscess?", "Emergency care for a tooth abscess?", "Steps to take if you have a dental abscess?", "Handling a suspected dental abscess?"],
+    "responses": ["If you suspect you have a dental abscess, rinse your mouth with warm salt water to help reduce pain and inflammation. Avoid applying heat or cold directly to the affected area, as this could exacerbate the pain. Take over-the-counter pain medication as directed to help manage discomfort. Contact your dentist as soon as possible for an evaluation and appropriate treatment."],
+    "context_set": ""
+},
+{
+    "tag": "TeethFirstAidLostFilling",
+    "patterns": ["What to do if a dental filling falls out?", "First aid for a lost dental filling?", "Emergency care for a missing filling?", "Steps to take if you lose a dental filling?", "Handling a lost dental filling?"],
+    "responses": ["If a dental filling falls out, rinse your mouth with warm salt water to clean the area. Avoid chewing on the affected side of your mouth to prevent further damage. Apply temporary dental cement, dental wax, or sugarless gum to the cavity to protect the exposed tooth until you can see your dentist. Contact your dentist for an appointment to replace the filling and prevent further decay or damage to the tooth."],
+    "context_set": ""
+},
+{
+    "tag": "TeethFirstAidBrokenCrown",
+    "patterns": ["What to do if a dental crown breaks?", "First aid for a broken dental crown?", "Emergency care for a damaged dental crown?", "Steps to take if a dental crown breaks?", "Handling a broken dental crown?"],
+    "responses": ["If a dental crown breaks or becomes loose, remove it from your mouth to prevent swallowing or inhaling it. Rinse your mouth with warm salt water to clean the area and reduce the risk of infection. Apply dental cement, dental adhesive, or sugarless gum to the exposed tooth to protect it until you can see your dentist. Contact your dentist for an appointment to repair or replace the broken crown."],
+    "context_set": ""
+},
+{
+    "tag": "TeethFirstAidOralInjury",
+    "patterns": ["What to do for an oral injury?", "First aid for oral injuries?", "Emergency care for a mouth injury?", "Steps to take for immediate oral injury relief?", "Handling an oral injury?"],
+    "responses": ["If you sustain an oral injury, rinse your mouth with warm salt water to clean the area and reduce the risk of infection. Apply gentle pressure to any bleeding wounds with a clean piece of gauze or cloth to help stop the bleeding. Use a cold compress to reduce swelling and alleviate pain. Contact your dentist or seek medical attention if the injury is severe or if you experience persistent bleeding or pain."],
+    "context_set": ""
+}
+
+
 ] }
