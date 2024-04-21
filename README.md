@@ -28,23 +28,12 @@ First AID is not just another medical app; it's your virtual first responder. Po
 #### How It Works
 
 - **Seamless User Experience**: First AID boasts an intuitive interface designed for ease of use, ensuring that anyone, regardless of their medical expertise, can access its features.
-            - ![image](https://github.com/zbeeb1/Firs_AId-1.0/assets/134772110/d372ab70-dea1-4ca3-938e-8bea378ced18)
-
-  
 - **Comprehensive Knowledge Base**: Behind the scenes, First AID harnesses the collective wisdom of medical literature, research papers, and real-world emergency scenarios to provide accurate and up-to-date information and all this is linked statisrically by robust Sequence Model to help you make informed decisions.
-- **The DATA that we trained the Model on**
+#### The DATA that we trained the Model on 
 - https://www.medicalnewstoday.com/categories/first-aid
 ![image](https://github.com/zbeeb1/Firs_AId-1.0/assets/134772110/c26075db-731f-40cb-9df3-37b99e6aa961)
+#### Note: First AID is not a substitute for professional medical advice. In case of a medical emergency, always seek immediate assistance from trained medical professionals.  
+#### Tests :  
+![test1](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/3623a634-175a-4969-9b30-e7f172febe43)![test2](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/2da2f9d0-1270-47e5-a22e-0c422f95b4ab)
 
 
-
-#### Features
-
-- **Emergency Response Guidance**: From CPR instructions to managing severe burns, First AID provides step-by-step guidance for various medical emergencies.
-  
-- **Interactive Q&A**: Have a pressing first aid question? Simply ask First AID, and it will provide you with a detailed answer based on the latest medical knowledge.
-  
-- **Customized Recommendations**: Input specific symptoms or conditions, and First AID will offer personalized recommendations for first aid treatments and next steps.
-
-
-*Note: First AID is not a substitute for professional medical advice. In case of a medical emergency, always seek immediate assistance from trained medical professionals.*
