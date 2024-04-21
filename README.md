@@ -34,7 +34,16 @@ First AID is not just another medical app; it's your virtual first responder. Po
 ![image](https://github.com/zbeeb1/Firs_AId-1.0/assets/134772110/c26075db-731f-40cb-9df3-37b99e6aa961)
 #### Note: First AID is not a substitute for professional medical advice. In case of a medical emergency, always seek immediate assistance from trained medical professionals.  
 #### Tests :  
-![test1](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/3623a634-175a-4969-9b30-e7f172febe43)![test2](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/2da2f9d0-1270-47e5-a22e-0c422f95b4ab) ![test3](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/3576c249-0502-419b-a456-fc2990aa0384)![test4](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/ab294561-ee32-47c3-a20f-913b18cae80c) ![test5] ![test6](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/2eb8f26f-1c63-4849-9b5e-51f23f23815e)![test7](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/9337dfe1-7688-4f67-b34f-723997028af9 ![test8] ![test9](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/7a57256d-2e88-4b20-a980-3e5568291d75)![test10](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/6c0819cf-7aff-4503-92fe-f39c55040328)![test8](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/b0f06c03-6a3f-4860-aed6-ce4fa55c8253)
+![Test 1](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/raw/main/assets/134772110/3623a634-175a-4969-9b30-e7f172febe43)
+![Test 2](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/raw/main/assets/134772110/2da2f9d0-1270-47e5-a22e-0c422f95b4ab)
+![Test 3](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/raw/main/assets/134772110/3576c249-0502-419b-a456-fc2990aa0384)
+![Test 4](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/raw/main/assets/134772110/ab294561-ee32-47c3-a20f-913b18cae80c)
+![Test 5](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/raw/main/assets/134772110/Placeholder_for_Test_5)
+![Test 6](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/raw/main/assets/134772110/2eb8f26f-1c63-4849-9b5e-51f23f23815e)
+![Test 7](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/raw/main/assets/134772110/9337dfe1-7688-4f67-b34f-723997028af9)
+![Test 8](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/raw/main/assets/134772110/Placeholder_for_Test_8)
+![Test 9](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/raw/main/assets/134772110/7a57256d-2e88-4b20-a980-3e5568291d75)
+![Test 10](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/raw/main/assets/134772110/6c0819cf-7aff-4503-92fe-f39c55040328)
 
 
 
