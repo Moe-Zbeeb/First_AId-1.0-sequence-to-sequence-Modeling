@@ -38,8 +38,7 @@ First AID is not just another medical app; it's your virtual first responder. Po
 
 ![test2](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/bc2fb911-b3d6-4e84-bc4b-a7fe6ab74033)![test4](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/e303aca7-3693-423c-9d4f-ba0823447c46)![test5](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/646cbb66-b76b-45fc-88dd-d2bf31f3e2a9)![test6](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/c16f1cac-31df-4b56-b071-d846c2f325ec)![test7]![test8](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/a09e5304-606d-4912-8fd9-0c55099eec1f) 
 ![test9](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/359a6be6-e84f-4be2-ab65-2666f89bd69a)![test10](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/a83cc357-bc17-4e70-b714-a6fdd9baf5f6)
-
-
+![test7](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/bd12776a-7d44-480e-828d-81e69addb94f)
 
 
 
