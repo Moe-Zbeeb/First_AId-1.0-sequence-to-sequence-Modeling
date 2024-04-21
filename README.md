@@ -5,12 +5,12 @@
 
 ### Key Contribution  
 At First AID, our dedication to excellence in medical assistance is exemplified by our unique approach to model development. Unlike many existing applications, **we've painstakingly constructed our sequence model from scratch, ensuring every architectural detail meets the stringent requirements of first aid and emergency response**. By opting against the common practice of fine-tuning pre-existing language models (LLMs), we circumvent potential biases and limitations inherent in pre-trained weights. **This meticulous approach not only guarantees unparalleled accuracy and reliability but also underscores our unwavering commitment to user safety and well-being**.for example the model will **not give any pills' recommendations** or if it happens that the model is not confident about an answer it will never Hallucinate but instead will ask you to enter a better prompt.
-##### Note : Model is proved to be better that prompt engineering basded on litreture for example prof ali chehab coducted a study about prompt engineering vs fine tuning (in totally different but proving the point)
+##### Note : Model is proved to be better than prompt engineering based on literature for example prof Ali Chehab coducted a study about prompt engineering vs fine tuning (in totally different but proving the point)
 
 ![image](https://github.com/zbeeb1/Firs_AId-1.0/assets/134772110/b4541e96-a4b5-48b8-b10f-197b686079aa)
 
 
-##### Note : Model is tuned against Hallucination basded on 
+##### Note : Model is tuned against hallucination based on 
 ![image](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/17428b43-9816-4ca2-ba6c-336e2aab7e01)
 
 
