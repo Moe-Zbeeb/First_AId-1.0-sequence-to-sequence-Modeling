@@ -11,7 +11,7 @@ At First AID, we take pride in our commitment to excellence in medical assistanc
 
 
 ##### Note : Model is tuned against Hallucination basded on 
-![image](https://github.com/zbeeb1/Firs_AId-1.0-sequence-to-sequence-/assets/134772110/d784ead6-46f5-4044-beb5-94e7386f0470)
+![image](https://github.com/zbeeb1/First_AId-1.0-sequence-to-sequence-/assets/134772110/17428b43-9816-4ca2-ba6c-336e2aab7e01)
 
 
 #### Introduction
